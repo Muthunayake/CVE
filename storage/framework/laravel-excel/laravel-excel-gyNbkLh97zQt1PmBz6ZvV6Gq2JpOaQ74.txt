@@ -1,0 +1,1227 @@
+cve_id,affected_vendor,published,vulnerability
+CVE-2020-24562,Trend Micro,25/09/2020,Trend Micro OfficeScan Hard Link Privilege Escalation Vulnerability
+CVE-2020-25774,Trend Micro,25/09/2020,Trend Micro OfficeScan ServerMigrationTool ZIP File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-25773,Trend Micro,25/09/2020,Trend Micro OfficeScan ServerMigrationTool DAT File Parsing Double Free Remote Code Execution Vulnerability
+CVE-2020-25771,Trend Micro,25/09/2020,Trend Micro Apex One scanServer64 Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-25772,Trend Micro,25/09/2020,Trend Micro Apex One scanServer64 Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-25770,Trend Micro,25/09/2020,Trend Micro Apex One scanServer64 Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-24565,Trend Micro,25/09/2020,Trend Micro Apex One scanServer64 Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-24564,Trend Micro,25/09/2020,Trend Micro Apex One Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-24563,Trend Micro,25/09/2020,Trend Micro Apex One Authentication Bypass Vulnerability
+CVE-2020-11855,Micro Focus,23/09/2020,Micro Focus Operations Bridge Reporter HPE-OBR Incorrect Permission Assignment Privilege Escalation Vulnerability
+CVE-2020-11856,Micro Focus,23/09/2020,Micro Focus Operations Bridge Reporter JMX Missing Authentication Remote Code Execution Vulnerability
+CVE-2020-11857,Micro Focus,23/09/2020,Micro Focus Operations Bridge Reporter shrboadmin Use of Hard-coded Credentials Remote Code Execution Vulnerability
+CVE-2020-9948,Apple,21/09/2020,Apple Safari replace Type Confusion Remote Code Execution Vulnerability
+CVE-2020-9921,Apple,21/09/2020,Apple macOS process_token_BlitFramebuffer Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-9921,Apple,21/09/2020,Apple macOS process_token_CopyPixelsSrcFBO Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-9921,Apple,21/09/2020,Apple macOS process_token_TexSubImage2D Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-9921,Apple,21/09/2020,Apple macOS process_token_TexPBOUpload Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-9927,Apple,21/09/2020,Apple macOS AMDSupport Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-24623,Hewlett Packard Enterprise,21/09/2020,Hewlett Packard Enterprise Universal API Framework uaf_token SQL Injection Information Disclosure Vulnerability
+CVE-2020-16226,Mitsubishi Electric,08/09/2020,Mitsubishi Electric MELSEC iQ-F Predictable TCP Sequence Number Remote Code Execution Vulnerability
+CVE-2020-17407,Microhard,26/08/2020,Microhard Bullet-LTE Basic Authorization Header Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-17406,Microhard,26/08/2020,Microhard Bullet-LTE Ping Command Injection Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 5 V8 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9919,Apple,05/08/2020,Apple macOS ImageIO PIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Fuji Electric,17/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 SIM2 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-9876,Apple,05/08/2020,Apple macOS ImageIO TIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9887,Apple,16/09/2020,Apple macOS AppleVPA JPEG Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3988,VMware,15/09/2020,VMware Workstation ThinPrint JPEG2000 Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3987,VMware,15/09/2020,VMware Workstation ThinPrint EMR_STRETCHDIBITS Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3986,VMware,15/09/2020,VMware Workstation ThinPrint EMF Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3990,VMware,15/09/2020,VMware Workstation ThinPrint TTCHeader Integer Overflow Information Disclosure Vulnerability
+CVE-2020-3989,VMware,15/09/2020,VMware Workstation ThinPrint name Table Integer Overflow Privilege Escalation Vulnerability
+CVE-2020-17409,NETGEAR,15/09/2020,NETGEAR Multiple Routers mini_httpd Authentication Bypass Vulnerability
+CVE-2020-0997,Microsoft,14/09/2020,Microsoft Windows Camera Codec Pack Image Processing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Fatek Automation,14/09/2020,(0Day) Fatek Automation PLC WinProladder TAB File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fatek Automation,14/09/2020,(0Day) Fatek Automation PLC WinProladder SPF File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-6361,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer RLE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6360,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer DIB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6359,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer PLT File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-6358,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer FBX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6357,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer U3D File Parsing Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-6350,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer BMP File Parsing Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-6349,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer GIF File Parsing Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-6348,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer GIF File Parsing Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-6347,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer HDR File Parsing Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-6346,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer BMP File Parsing Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-6356,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer BMP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6355,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer TGA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-6345,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer TGA File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-6336,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer PCX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6354,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-6338,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer RH File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6339,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer BMP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-6337,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer HDR File Parsing Memory Corruption Remote Code Execution Vulnerabililty
+CVE-2020-6340,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer PCX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6341,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer EPS File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-6342,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6343,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer EPS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6344,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer PDF File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability
+CVE-2020-6353,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-6352,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer FBX File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability
+CVE-2020-6351,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer FBX File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability
+CVE-2020-6335,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer HPGL File Parsing hpgl Plugin Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6334,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-6333,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer HPGL File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6332,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer HPGL File Parsing hpgl Plugin Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6331,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer HPGL File Parsing hpgl Plugin Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-6314,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer HPGL File Parsing hpgl Plugin Untrusted Pointer Dereference Remote Code Execution Vulnerability
+CVE-2020-6321,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer U3D File Parsing 3difr Plugin Uninitialized Pointer Remote Code Execution Vulnerability
+CVE-2020-6322,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer 3DM File Parsing rhino Plugin Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-6327,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer 3DM File Parsing Integer Overflow Remote Code Execution Vulnerability
+CVE-2020-6328,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer CGM File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability
+CVE-2020-6329,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer SKP File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-6330,SAP,10/09/2020,SAP 3D Visual Enterprise Viewer 3DM File Parsing rhino Plugin Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-1319,Microsoft,10/09/2020,Microsoft Windows WebM Video Parsing Uninitialized Pointer Remote Code Execution Vulnerability
+CVE-2020-1594,Microsoft,10/09/2020,Microsoft Excel XLS File SST Record Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1193,Microsoft,10/09/2020,Microsoft Excel XLS File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-1338,Microsoft,10/09/2020,Microsoft Word DOCX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-0914,Microsoft,10/09/2020,Microsoft Windows State Repository Service Race Condition Use-After-Free Information Disclosure Vulnerability
+CVE-2020-1129,Microsoft,10/09/2020,Microsoft Windows Media Player HEVC Stream Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-1074,Microsoft,10/09/2020,Microsoft Windows JET Database Engine Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1039,Microsoft,10/09/2020,Microsoft Windows JET Database Engine Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-16874,Microsoft,10/09/2020,Microsoft Visual Studio DDS File Parsing Integer Overflow Remote Code Execution Multiple Vulnerabilities
+CVE-2020-16856,Microsoft,10/09/2020,Microsoft Visual Studio DDS File Parsing Integer Overflow Remote Code Execution Vulnerability
+CVE-2020-16874,Microsoft,10/09/2020,Microsoft Visual Studio DDS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-0908,Microsoft,10/09/2020,Microsoft Internet Explorer CTSF3CandidateMessage Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-0997,Microsoft,10/09/2020,Microsoft Windows Camera Codec Pack Image Processing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-16874,Microsoft,10/09/2020,Microsoft Visual Studio DDS File Parsing Integer Overflow Remote Code Execution Vulnerability
+CVE-2020-16874,Microsoft,10/09/2020,Microsoft Visual Studio DDS File Parsing Integer Overflow Remote Code Execution Vulnerability
+CVE-2020-9725,Adobe,10/09/2020,Adobe FrameMaker FM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-9726,Adobe,10/09/2020,Adobe FrameMaker FM File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+,Fuji Electric,08/09/2020,(0Day) Fuji Electric Tellus Lite V-Simulator 6 V9 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-17408,NEC,08/09/2020,NEC ExpressCluster ApplyConfig XML External Entity Processing Information Disclosure Vulnerability
+CVE-2020-3453,Cisco,08/09/2020,Cisco RV340 upload.cgi Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-3451,Cisco,08/09/2020,Cisco RV340 upload.cgi Command Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,08/09/2020,(0Day) Hewlett Packard Enterprise Pay per use UCS Meter ReceiverServlet doGet Directory Traversal Information Disclosure Vulnerability
+,Hewlett Packard Enterprise,08/09/2020,(0Day) Hewlett Packard Enterprise Pay per use UCS Meter DownloadServlet execute Directory Traversal Information Disclosure Vulnerability
+,Hewlett Packard Enterprise,08/09/2020,(0Day) Hewlett Packard Enterprise Pay per use UCS Meter ReceiverServlet doPost Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-24559,Trend Micro,31/08/2020,Trend Micro Apex One Hard Link Privilege Escalation Vulnerability
+CVE-2020-24558,Trend Micro,31/08/2020,Trend Micro Apex One Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-24557,Trend Micro,31/08/2020,Trend Micro Apex One Improper Access Control Privilege Escalation Vulnerability
+CVE-2020-24556,Trend Micro,31/08/2020,Trend Micro Apex One Hard Link Privilege Escalation Vulnerability
+CVE-2020-16245,Advantech,27/08/2020,Advantech iView NetworkServlet findSummaryCfgDeviceListExport Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-16245,Advantech,27/08/2020,Advantech iView NetworkServlet findUpdateDeviceListExport Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-16245,Advantech,27/08/2020,Advantech iView NetworkServlet findCfgDeviceListExport Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-16245,Advantech,27/08/2020,Advantech iView NetworkServlet findSummaryUpdateDeviceListExport Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-16245,Advantech,27/08/2020,Advantech iView NetworkServlet backupDatabase Directory Traversal Information Disclosure Vulnerability
+CVE-2020-16245,Advantech,27/08/2020,Advantech iView TaskMgrTable exportTaskMgrReportDetails Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-16245,Advantech,27/08/2020,Advantech iView PSTable exportPSInventoryTable Directory Traversal File Creation Vulnerability
+CVE-2020-16245,Advantech,27/08/2020,Advantech iView DeviceTreeTable exportInventoryTable Directory Traversal File Creation Vulnerability
+CVE-2020-16245,Advantech,27/08/2020,Advantech iView DeviceTreeTable exportTaskMgrReport Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-15605,Trend Micro,27/08/2020,Trend Micro Vulnerability Protection Authentication Bypass Vulnerability
+CVE-2020-9908,Apple,27/08/2020,Apple macOS Intel Graphics Driver Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-1457,Microsoft,27/08/2020,Microsoft Windows hevcdecoder_store MKV File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-17405,Senstar,26/08/2020,Senstar Symphony SSOAuth Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-17404,Foxit,21/08/2020,Foxit Studio Photo PSD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-17403,Foxit,21/08/2020,Foxit Studio Photo PSD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-15601,Trend Micro,21/08/2020,Trend Micro Deep Security Manager Authentication Bypass Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU MultiLink bitaddr Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU Alarm bitaddr Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU Disc WordAddr3 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU Disc WordAddr4 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU Disc WordAddr Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU TrendSet WordAddr Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU AlarmSet bitaddr Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU AlarmSet WordAddr9 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU WordAlarmSet WordAddr9 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU MultiLink WordAddr Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU WebSet WordAddr Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU DiscSet WordAddr2 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU DiscSet WordAddr1 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU XYSet WordAddr Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU XYSet WordAddr2 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU XYSet WordAddr4 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU XYSet WordAddr3 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU XYSet WordAddr1 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU TrendSet WordAddr4 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU TrendSet WordAddr2 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU TrendSet WordAddr3 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,19/08/2020,(0Day) WECON LeviStudioU TrendSet WordAddr1 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition prefs sync_calendars Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition attendees fb_cals Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition fb fb_cals Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Sort sortpref Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Poll nav_poll Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Remote Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Event event_alarms Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition CalendarsManager _checkDisplayCals Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Search filter Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Search vfolder Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Flags msgflags Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Expanded expanded_folders Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Upgrade upgrade_tasks Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Horde last_logintasks Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Compose reply_lang Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition prefs sync_calendars Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Nag show_external Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Prefs sync_lists Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition prefs sync_lists Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Nag display_tasklists Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition List tasklist_columns Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Task task_alarms Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Nag display_tasklists Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Nag display_tasklists Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Ui generateUI Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Kronolith remote_cals Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Mnemo display_notepads Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition prefs sync_notepads Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Kronolith show_time Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition prefs sync_notepads Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Collection portal_layout Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition Kronolith remote_cals Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition remote_edit remote_cals Deserialization of Untrusted Data Remote Code Execution Vulnerability
+,Horde,19/08/2020,(0Day) Horde Groupware Webmail Edition remote_unsubscribe remote_cals Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-17402,Parallels,18/08/2020,Parallels Desktop prl_hypervisor Incorrect Permission Assignment for Critical Resource Information Disclosure Vulnerability
+CVE-2020-17401,Parallels,18/08/2020,Parallels Desktop VGA Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-17400,Parallels,18/08/2020,Parallels Desktop prl_hypervisor Out-Of-Bounds Read Privilege Escalation Vulnerability
+CVE-2020-17399,Parallels,18/08/2020,Parallels Desktop prl_hypervisor Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-17398,Parallels,18/08/2020,Parallels Desktop prl_hypervisor Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-17397,Parallels,18/08/2020,Parallels Desktop Networking Out-Of-Bounds Access Privilege Escalation Vulnerability
+CVE-2020-17396,Parallels,18/08/2020,Parallels Desktop prl_hypervisor Integer Overflow Privilege Escalation Vulnerability
+CVE-2020-17395,Parallels,18/08/2020,Parallels Desktop Networking Service Integer Underflow Privilege Escalation Vulnerability
+CVE-2020-17394,Parallels,18/08/2020,Parallels Desktop OEMNet Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-17393,Parallels,18/08/2020,Parallels Desktop prl_hypervisor Improper Input Validation Information Disclosure Vulnerability
+CVE-2020-17392,Parallels,18/08/2020,Parallels Desktop prl_hypervisor Untrusted Pointer Dereference Privilege Escalation Vulnerability
+CVE-2020-17391,Parallels,18/08/2020,Parallels Desktop prl_hypervisor Exposed Dangerous Method Information Disclosure Vulnerability
+CVE-2020-17390,Parallels,18/08/2020,Parallels Desktop hypervisor Out-Of-Bounds Read Privilege Escalation Vulnerability
+CVE-2020-7522,Schneider Electric,17/08/2020,Schneider Electric APC Easy UPS Online SoundUploadServlet processRequest Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-7521,Schneider Electric,17/08/2020,Schneider Electric APC Easy UPS Online FileUploadServlet processRequest Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-10756,QEMU,17/08/2020,QEMU SLiRP Networking Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-1492,Microsoft,14/08/2020,Microsoft Windows QuickTime Video Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-1561,Microsoft,14/08/2020,Microsoft Windows fontdrvhost Font Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-1560,Microsoft,14/08/2020,Microsoft Windows av1decodermft_store MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1555,Microsoft,14/08/2020,Microsoft Chakra Inline Cache Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-1581,Microsoft,13/08/2020,Microsoft Office OfficeClickToRun Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-1493,Microsoft,13/08/2020,Microsoft Outlook EML Rendering Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-1520,Microsoft,13/08/2020,Microsoft Windows PFB Font File Heap-based Buffer Overflow Privilege Escalation Vulnerability
+CVE-2020-1556,Microsoft,13/08/2020,Microsoft Windows WalletService Race Condition Information Disclosure Vulnerability
+CVE-2020-1556,Microsoft,13/08/2020,Microsoft Windows WalletService Race Condition Information Disclosure Vulnerability
+CVE-2020-1337,Microsoft,13/08/2020,Microsoft Windows Print Spooler Directory Junction Privilege Escalation Vulnerability
+CVE-2020-1577,Microsoft,13/08/2020,Microsoft Windows findBaseLigature TTF Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-1585,Microsoft,13/08/2020,Microsoft Windows av1decodermft_store AVIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1574,Microsoft,13/08/2020,Microsoft Windows WEBP VP8X Integer Overflow Remote Code Execution Vulnerability
+CVE-2020-9715,Adobe,12/08/2020,Adobe Acrobat Reader DC ESObject Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-9712,Adobe,12/08/2020,Adobe Acrobat Pro DC Web2PDF:AppLinks JavaScript Restrictions Bypass Vulnerability
+CVE-2020-9710,Adobe,12/08/2020,Adobe Acrobat Pro DC convert Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9706,Adobe,12/08/2020,Adobe Acrobat Pro DC updateFeed Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9706,Adobe,12/08/2020,Adobe Acrobat Pro DC removeFeed Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9707,Adobe,12/08/2020,Adobe Acrobat Pro DC selectFeed Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9706,Adobe,12/08/2020,Adobe Acrobat Pro DC addFeed Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9697,Adobe,12/08/2020,Adobe Acrobat Reader DC app.measureDialog Information Disclosure Vulnerability
+CVE-2020-9694,Adobe,12/08/2020,Adobe Acrobat Reader DC JPEG2000 Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9693,Adobe,12/08/2020,Adobe Acrobat Reader DC JPEG2000 Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-15708,Canonical,11/08/2020,Canonical Ubuntu Virtualization Library Arbitrary File Write Privilege Escalation Vulnerability
+CVE-2020-15704,Canonical,11/08/2020,Canonical Ubuntu Point-to-Point Protocol Daemon Arbitrary File Read Information Disclosure Vulnerability
+CVE-2020-15702,Canonical,11/08/2020,Canonical Ubuntu apport Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-11936,Canonical,11/08/2020,Canonical Ubuntu apport Unnecessary Privileges Information Disclosure Vulnerability
+,Micro Focus,10/08/2020,Micro Focus Secure Messaging Gateway manage_domains_save_data SaveData Command Injection Remote Code Execution Vulnerability
+CVE-2020-17389,Marvell,10/08/2020,Marvell QConvergeConsole GWTTestServiceImpl decryptFile Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-17388,Marvell,10/08/2020,Marvell QConvergeConsole Exposed Dangerous Method or Function Remote Code Execution
+CVE-2020-17387,Marvell,10/08/2020,Marvell QConvergeConsole writeObjectToConfigFile Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-15645,Marvell,10/08/2020,Marvell QConvergeConsole getFileFromURL Unrestricted File Upload Remote Code Execution Vulnerability
+CVE-2020-15644,Marvell,10/08/2020,Marvell QConvergeConsole setAppFileBytes Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-15643,Marvell,10/08/2020,Marvell QConvergeConsole saveAsText Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-15642,Marvell,10/08/2020,Marvell QConvergeConsole isHPSmartComponent Command Injection Remote Code Execution Vulnerability
+CVE-2020-15641,Marvell,10/08/2020,Marvell QConvergeConsole getFileUploadBytes Directory Traversal Information Disclosure Vulnerability
+CVE-2020-15640,Marvell,10/08/2020,Marvell QConvergeConsole getFileUploadBytes Directory Traversal Information Disclosure Vulnerability
+CVE-2020-15639,Marvell,10/08/2020,Marvell QConvergeConsole decryptFile Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-16223,Delta Industrial Automation,10/08/2020,Delta Industrial Automation TPEditor TPE File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-16227,Delta Industrial Automation,10/08/2020,Delta Industrial Automation TPEditor TPE File Parsing Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-16225,Delta Industrial Automation,10/08/2020,Delta Industrial Automation TPEditor TPE File Parsing Write-what-where Condition Remote Code Execution Vulnerability
+CVE-2020-16219,Delta Industrial Automation,10/08/2020,Delta Industrial Automation TPEditor TPE File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-16221,Delta Industrial Automation,10/08/2020,Delta Industrial Automation TPEditor TPE File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-16219,Delta Industrial Automation,10/08/2020,Delta Industrial Automation TPEditor TPE File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-9939,Apple,10/08/2020,(Pwn2Own) Apple macOS kextload Time-Of-Check Time-Of-Use Memory Corruption Vulnerability
+CVE-2020-16207,Advantech,10/08/2020,Advantech WebAccess/HMI Designer PM3 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-16207,Advantech,10/08/2020,Advantech WebAccess/HMI Designer PM3 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-16211,Advantech,10/08/2020,Advantech WebAccess/HMI Designer PM3 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-16213,Advantech,10/08/2020,Advantech WebAccess/HMI Designer PM3 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-16207,Advantech,10/08/2020,Advantech WebAccess/HMI Designer PM3 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-16229,Advantech,10/08/2020,Advantech WebAccess/HMI Designer PM3 File Parsing Type Confusion Remote Code Execution Vulnerability
+CVE-2020-16215,Advantech,10/08/2020,Advantech WebAccess IOCTL 0x2711 BwPFile Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-16217,Advantech,10/08/2020,Advantech WebAccess/HMI Designer PM3 File Parsing Double Free Remote Code Execution Vulnerability
+CVE-2020-16207,Advantech,10/08/2020,Advantech WebAccess/HMI Designer PM3 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-16207,Advantech,10/08/2020,Advantech WebAccess/HMI Designer PM3 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-7460,FreeBSD,06/08/2020,FreeBSD Kernel sendmsg System Call Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-16203,Delta Industrial Automation,05/08/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Uninitialized Pointer Dereference Remote Code Execution Vulnerability
+CVE-2020-16201,Delta Industrial Automation,05/08/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-16201,Delta Industrial Automation,05/08/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-16201,Delta Industrial Automation,05/08/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-16201,Delta Industrial Automation,05/08/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-16199,Delta Industrial Automation,05/08/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-16201,Delta Industrial Automation,05/08/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-16201,Delta Industrial Automation,05/08/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-16199,Delta Industrial Automation,05/08/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-16199,Delta Industrial Automation,05/08/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-9875,Apple,05/08/2020,Apple macOS ImageIO EXR Parsing Integer Overflow Remote Code Execution Vulnerability
+CVE-2020-15636,NETGEAR,04/08/2020,NETGEAR Multiple Routers check_ra Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-15635,NETGEAR,04/08/2020,NETGEAR R6700 acsd Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-15634,NETGEAR,04/08/2020,NETGEAR R6700 httpd strtblupgrade Format String Remote Code Execution Vulnerability
+CVE-2020-14347,X.Org,04/08/2020,X.Org Server Pixel Data Uninitialized Memory Information Disclosure Vulnerability
+CVE-2020-15638,Foxit,04/08/2020,Foxit PhantomPDF JSCreate Type Confusion Remote Code Execution Vulnerability
+CVE-2020-15637,Foxit,04/08/2020,Foxit PhantomPDF SetLocalDescription Use-After-Free Information Disclosure Vulnerability
+CVE-2019-13510,Rockwell Automation,04/08/2020,Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2019-13510,Rockwell Automation,04/08/2020,Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2019-13510,Rockwell Automation,04/08/2020,Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2019-13510,Rockwell Automation,04/08/2020,Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2019-13510,Rockwell Automation,04/08/2020,Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2019-13510,Rockwell Automation,04/08/2020,Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability
+,IBM,28/07/2020,(0Day) IBM Informix bts_tracefile Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-1400,Microsoft,23/07/2020,Microsoft Windows JET Database Engine Integer Underflow Remote Code Execution Vulnerability
+CVE-2020-1421,Microsoft,23/07/2020,Microsoft Windows LNK File Parsing Type Confusion Remote Code Execution Vulnerability
+CVE-2020-9680,Adobe,22/07/2020,Adobe Prelude MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9679,Adobe,22/07/2020,Adobe Prelude MOV File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9678,Adobe,22/07/2020,Adobe Prelude MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9677,Adobe,22/07/2020,Adobe Prelude 3GP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-9687,Adobe,22/07/2020,Adobe Photoshop MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9686,Adobe,22/07/2020,Adobe Photoshop MOV File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9685,Adobe,22/07/2020,Adobe Photoshop MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9684,Adobe,22/07/2020,Adobe Photoshop MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9683,Adobe,22/07/2020,Adobe Photoshop 3GP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-9674,Adobe,22/07/2020,Adobe Bridge MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9676,Adobe,22/07/2020,Adobe Bridge MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9675,Adobe,22/07/2020,Adobe Bridge 3GP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-9936,Apple,21/07/2020,Apple macOS decodePICT PIC Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9894,Apple,21/07/2020,Apple Safari getAnimations Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9884,Apple,21/07/2020,Apple macOS AudioToolboxCore CAF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9893,Apple,21/07/2020,Apple Safari RenderWidget Use-After-Free Remote Code Execution Vulnerability
+,Microsoft,20/07/2020,(0Day) Microsoft Windows hevcdecoder_store HEIC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-14703,Oracle,20/07/2020,Oracle VirtualBox e1000 Unintialized Memory Information Disclosure Vulnerability
+CVE-2020-14704,Oracle,20/07/2020,Oracle VirtualBox BusLogicSCSI Uninitialized Memory Information Disclosure Vulnerability
+CVE-2020-14700,Oracle,20/07/2020,Oracle VirtualBox e1000 Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-14699,Oracle,20/07/2020,Oracle VirtualBox e1000 Integer Underflow Privilege Escalation Vulnerability
+CVE-2020-14698,Oracle,20/07/2020,Oracle VirtualBox virtio-net Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-14695,Oracle,20/07/2020,Oracle VirtualBox BusLogicSCSI Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-14694,Oracle,20/07/2020,Oracle VirtualBox BusLogicSCSI Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-14673,Oracle,20/07/2020,Oracle VirtualBox LsiLogicSCSI Time-Of-Check Time-Of-Use Information Disclosure Vulnerability
+CVE-2020-14664,Oracle,20/07/2020,Oracle Java Runtime Environment HTML Rendering Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-14674,Oracle,20/07/2020,Oracle VirtualBox LsiLogicSCSI Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-14675,Oracle,20/07/2020,Oracle VirtualBox PCnet Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-14676,Oracle,20/07/2020,Oracle VirtualBox PCnet Out-Of-Bounds Access Privilege Escalation Vulnerability
+CVE-2020-14677,Oracle,20/07/2020,Oracle VirtualBox PCnet Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-14650,Oracle,20/07/2020,Oracle VirtualBox LsiLogicSCSI Time-Of-Check Time-Of-Use Information Disclosure Vulnerability
+CVE-2020-14649,Oracle,20/07/2020,Oracle VirtualBox LsiLogicSCSI Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-14647,Oracle,20/07/2020,Oracle VirtualBox LsiLogicSCSI Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-14648,Oracle,20/07/2020,Oracle VirtualBox LsiLogicSCSI Time-Of-Check Time-Of-Use Information Disclosure Vulnerability
+CVE-2020-14646,Oracle,20/07/2020,Oracle VirtualBox LsiLogicSCSI Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-14629,Oracle,20/07/2020,Oracle VirtualBox virtio-net Uninitialized Memory Information Disclosure Vulnerability
+CVE-2020-14628,Oracle,20/07/2020,Oracle VirtualBox Guest Additions Unnecessary Privileges Local Privilege Escalation Vulnerability
+CVE-2020-14625,Oracle,20/07/2020,Oracle WebLogic Server T3 Protocol Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-9650,Adobe,20/07/2020,Adobe Media Encoder MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9646,Adobe,20/07/2020,Adobe Media Encoder MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9649,Adobe,20/07/2020,Adobe Media Encoder 3GP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-15633,D-Link,20/07/2020,D-Link Multiple Routers HNAP GetCAPTCHAsetting Authentication Bypass Vulnerability
+CVE-2020-15632,D-Link,20/07/2020,D-Link DIR-842 HNAP GetCAPTCHAsetting Authentication Bypass Vulnerability
+CVE-2020-15631,D-Link,20/07/2020,D-Link DAP-1860 HNAP SOAPAction Command Injection Remote Code Execution Vulnerability
+CVE-2020-4464,IBM,20/07/2020,IBM WebSphere Application Server SOAP Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-1436,Microsoft,16/07/2020,Microsoft Windows PFB Font File Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-0987,Microsoft,16/07/2020,Microsoft Windows mf3216 EMF EMR_SETDIBITSTODEVICE Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-1355,Microsoft,16/07/2020,Microsoft Windows fontdrvhost Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1439,Microsoft,16/07/2020,Microsoft SharePoint Scorecards Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-1382,Microsoft,16/07/2020,(Pwn2Own) Microsoft Windows DirectComposition RemoveBindingManagerReferenceFromTrackerIfNecessary Use-After-Free Privilege Escalation Vulnerability
+CVE-2020-1381,Microsoft,16/07/2020,(Pwn2Own) Microsoft Windows DirectComposition SetBufferProperty Use-After-Free Privilege Escalation Vulnerability
+CVE-2020-15630,Foxit,16/07/2020,Foxit Studio Photo PNG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-15629,Foxit,16/07/2020,Foxit Studio Photo TIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView TaskEditDeviceTable getTaskEditorSearchDevices SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView TaskEditDeviceTable updateSelected SQL Injection Information Disclosure Vulnerability
+CVE-2020-14499,Advantech,16/07/2020,Advantech iView UserServlet getAllUsersAccountInfo Improper Access Control Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView TaskEditDeviceTable getDeviceCount SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView DeviceTreeTable getUpdateDeviceListDetails SQL Injection Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView TaskEditDeviceTable clearTaskEditorTable SQL Injection Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView TaskEditDeviceTable initTaskEditorSearchValues SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView User setUserAccountInfo SQL Injection Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView User addUser SQL Injection Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView User checkForDuplicateUserName SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14501,Advantech,16/07/2020,Advantech iView UserServlet performDeleteUser Missing Authentication for Critical Function Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView TaskEditDeviceTable updateDeviceAuthentication SQL Injection Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView LinksTable deleteLinks SQL Injection Remote code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView DeviceTreeTable setDeviceAuthentication SQL Injection Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView UpdateTable insertUpdateItem SQL Injection Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView ZTPConfigTable findConfiguration SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView TaskEditDeviceTable updateSelectedPROMVersion SQL Injection Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView DeviceTreeTable updateSegmentInfo SQL Injection Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView ZTPConfigTable findConfiguration SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView TaskMgrTable getExportDataDetails SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView TaskMgrTable getExportData SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView NetworkServlet SQL Injection Information Disclosure Vulnerability
+CVE-2020-14507,Advantech,16/07/2020,Advantech iView LinksTable exportLinks Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView TrapTable retrieveActiveTrapCount SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView DeviceTreeTable getInventoryReportData SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView TrapEventConfig retrieveDeviceTrapConfig SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView ConfigurationTable setConfigurationItem SQL Injection Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView NetworkServlet SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14507,Advantech,16/07/2020,Advantech iView NetworkServlet Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-14507,Advantech,16/07/2020,Advantech iView MenuServlet Directory Traversal Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView UserServlet SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView DeviceTreeTable getInventoryExportData SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView PSTable getPSInventoryExportData SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView DeviceTreeTable updateNamingData SQL Injection Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView SystemTable updateLDAPSettings SQL Injection Information Disclosure Vulnerability
+CVE-2020-14503,Advantech,16/07/2020,Advantech iView NetworkServlet Improper Input Validation Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView DeviceTreeTable checkForChassisUpdates SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView NetworkServlet SQL Injection Information Disclosure Vulnerability
+CVE-2020-14505,Advantech,16/07/2020,Advantech iView NetworkServlet restoreDatabase Command Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView NetworkServlet SQL Injection Information Disclosure Vulnerability
+CVE-2020-14507,Advantech,16/07/2020,Advantech iView ZTPConfig importZtpConfiguration Directory Traversal Information Disclosure Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView NetworkServlet SQL Injection Remote Code Execution Vulnerability
+CVE-2020-14497,Advantech,16/07/2020,Advantech iView LinksTable retrieveSearchLinks SQL Injection Remote Code Execution Vulnerability
+CVE-2020-12498,Phoenix Contact,10/07/2020,Phoenix Contact Automationworx PC WORX MWE File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-12497,Phoenix Contact,10/07/2020,Phoenix Contact Automationworx PLCOpen XML File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12025,Rockwell Automation,09/07/2020,(0Day) (Pwn2Own) Rockwell Automation Studio 5000 AML File Parsing XML External Entity Processing Information Disclosure Vulnerability
+CVE-2020-9815,Apple,09/07/2020,Apple macOS AudioToolboxCore CAF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-15419,Veeam,08/07/2020,Veeam ONE Reporter_ImportLicense Page_Load XML External Entity Processing Information Disclosure Vulnerability
+CVE-2020-15418,Veeam,08/07/2020,Veeam ONE SSRSReport GetCustomElementText XML External Entity Processing Information Disclosure Vulnerability
+CVE-2020-1457,Microsoft,08/07/2020,Microsoft Windows hevcdecoder_store HEIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1425,Microsoft,08/07/2020,Microsoft Windows hevcdecoder_store HEIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1425,Microsoft,08/07/2020,Microsoft Windows hevcdecoder_store HEIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1425,Microsoft,08/07/2020,Microsoft Windows hevcdecoder_store HEIC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-1425,Microsoft,08/07/2020,Microsoft Windows hevcdecoder_store HEIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1425,Microsoft,07/07/2020,Microsoft Windows hevcdecoder_store MKV File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2019-13511,Rockwell Automation,07/07/2020,Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2019-13511,Rockwell Automation,07/07/2020,Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2019-13511,Rockwell Automation,07/07/2020,Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2019-13511,Rockwell Automation,07/07/2020,Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2019-13511,Rockwell Automation,07/07/2020,Rockwell Automation Arena Simulation DOE File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-10922,C-MORE,07/07/2020,C-MORE HMI EA9 EA-HTTP Improper Input Validation Denial-of-Service Vulnerability
+CVE-2020-10920,C-MORE,07/07/2020,C-MORE HMI EA9 Control Port Missing Authentication for Critical Function Remote Code Execution Vulnerability
+CVE-2020-10921,C-MORE,07/07/2020,C-MORE HMI EA9 EA-HTTP Missing Authentication for Critical Function Remote Code Execution Vulnerability
+CVE-2020-10919,C-MORE,07/07/2020,C-MORE HMI EA9 Weak Cryptography for Passwords Information Disclosure Vulnerability
+CVE-2020-10918,C-MORE,07/07/2020,C-MORE HMI EA9 Authentication Bypass Vulnerability
+CVE-2020-1425,Microsoft,07/07/2020,Microsoft Windows hevcdecoder_store HEIC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-6013,Check Point,02/07/2020,Check Point ZoneAlarm Symlink Following Privilege Escalation Vulnerability
+CVE-2020-1425,Microsoft,01/07/2020,Microsoft Windows hevcdecoder_store HEIC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-1457,Microsoft,01/07/2020,Microsoft Windows hevcdecoder_store HEIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,ICONICS,01/07/2020,(Pwn2Own) ICONICS Genesis64 PKGX Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing EnRcpNoName Out-Of-Bounds Read Information Disclosure Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Delta Industrial Automation,01/07/2020,(0Day) Delta Industrial Automation DOPSoft DPA File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3969,VMware,30/06/2020,VMware Workstation SVGA3D Command Heap Overflow Privilege Escalation Vulnerability
+CVE-2020-3962,VMware,30/06/2020,VMware Workstation SVGA DXInvalidateContext Use-After-Free Privilege Escalation Vulnerability
+CVE-2020-3967,VMware,30/06/2020,VMware Workstation EHCI Heap-based Buffer Overflow Privilege Escalation Vulnerability
+CVE-2020-3966,VMware,30/06/2020,VMware Workstation EHCI Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-3970,VMware,30/06/2020,VMware Workstation Shader Bytecode Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3968,VMware,30/06/2020,VMware Workstation xHCI Isoch TD Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-12015,ICONICS,30/06/2020,(Pwn2Own) ICONICS Genesis64 IcoFwxServer Deserialization Of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-12013,ICONICS,30/06/2020,ICONICS Genesis64 TestQuery SQL Injection Remote Code Execution Vulnerability
+CVE-2020-12011,ICONICS,30/06/2020,(Pwn2Own) ICONICS Genesis64 VariantClear Out-Of-Bounds Access Remote Code Execution Vulnerability
+CVE-2020-12009,ICONICS,30/06/2020,(Pwn2Own) ICONICS Genesis64 PKGX WbPackAndGoSettings Absolute Path Traversal Remote Code Execution Vulnerability
+CVE-2020-12007,ICONICS,30/06/2020,(Pwn2Own) ICONICS Genesis64 fwxserver Deserialization Denial-Of-Service Vulnerability
+CVE-2020-15628,CentOS Web Panel,26/06/2020,(0Day) CentOS Web Panel ajax_mail_autoreply user SQL Injection Information Disclosure Vulnerability
+CVE-2020-15627,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_mail_autoreply account SQL Injection Information Disclosure Vulnerability
+CVE-2020-15626,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_dashboard term SQL Injection Information Disclosure Vulnerability
+CVE-2020-15625,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_add_mailbox username SQL Injection Information Disclosure Vulnerability
+CVE-2020-15624,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_new_account domain SQL Injection Information Disclosure Vulnerability
+CVE-2020-15623,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_mod_security archivo Arbitrary File Write Remote Code Execution Vulnerability
+CVE-2020-15622,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_mail_autoreply search SQL Injection Information Disclosure Vulnerability
+CVE-2020-15621,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_mail_autoreply email SQL Injection Information Disclosure Vulnerability
+CVE-2020-15620,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_list_accounts id SQL Injection Information Disclosure Vulnerability
+CVE-2020-15619,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_list_accounts type SQL Injection Information Disclosure Vulnerability
+CVE-2020-15618,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_list_accounts username SQL Injection Information Disclosure Vulnerability
+CVE-2020-15617,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_list_accounts status SQL Injection Information Disclosure Vulnerability
+CVE-2020-15616,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_list_accounts package SQL Injection Information Disclosure Vulnerability
+CVE-2020-15615,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_ftp_manager Command Injection Remote Code Execution Vulnerability
+CVE-2020-15614,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_php_pecl cha Command Injection Remote Code Execution Vulnerability
+CVE-2020-15613,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_admin_apis line Command Injection Remote Code Execution Vulnerability
+CVE-2020-15612,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_ftp_manager userLogin Command Injection Remote Code Execution Vulnerability
+CVE-2020-15611,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_dashboard service_restart Command Injection Remote Code Execution Vulnerability
+CVE-2020-15610,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_php_pecl modulo Command Injection Remote Code Execution Vulnerability
+CVE-2020-15609,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_dashboard service_stop Command Injection Remote Code Execution Vulnerability
+CVE-2020-15608,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_dashboard ai_service Command Injection Remote Code Execution Vulnerability
+CVE-2020-15607,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_admin_apis line Command Injection Remote Code Execution Vulnerability
+CVE-2020-15606,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_admin_apis Command Injection Remote Code Execution Vulnerability
+CVE-2020-15435,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_dashboard service_start Command Injection Remote Code Execution Vulnerability
+CVE-2020-15434,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_php_pecl canal Command Injection Remote Code Execution Vulnerability
+CVE-2020-15433,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_php_pecl phpversion Command Injection Remote Code Execution Vulnerability
+CVE-2020-15432,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_migration_cpanel filespace Command Injection Remote Code Execution Vulnerability
+CVE-2020-15431,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_crons user Command Injection Remote Code Execution Vulnerability
+CVE-2020-15430,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_list_accounts username Command Injection Remote Code Execution Vulnerability
+CVE-2020-15429,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_crons user Command Injection Remote Code Execution Vulnerability
+CVE-2020-15428,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_crons line Command Injection Remote Code Execution Vulnerability
+CVE-2020-15427,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_disk_usage folderName Command Injection Remote Code Execution Vulnerability
+CVE-2020-15426,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_migration_cpanel serverip Command Injection Remote Code Execution Vulnerability
+CVE-2020-15425,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_mod_security Command Injection Remote Code Execution Vulnerability
+CVE-2020-15424,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_mod_security domain Command Injection Remote Code Execution Vulnerability
+CVE-2020-15423,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_mod_security dominio Command Injection Remote Code Execution Vulnerability
+CVE-2020-15422,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_mod_security archivo Command Injection Remote Code Execution Vulnerability
+CVE-2020-15421,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel ajax_mod_security check_ip Command Injection Remote Code Execution Vulnerability
+CVE-2020-15420,CentOS Web Panel,25/06/2020,(0Day) CentOS Web Panel loader_ajax line Command Injection Remote Code Execution Vulnerability
+,NEC,25/06/2020,(0Day) NEC ESMPRO Manager GetEuaLogDownloadAction Directory Traversal Information Disclosure Vulnerability
+CVE-2020-12033,Rockwell Automation,22/06/2020,(Pwn2Own) Rockwell Automation FactoryTalk View SE AddAgent Missing Authentication for Critical Function Remote Code Execution Vulnerability
+,Rockwell Automation,22/06/2020,(Pwn2Own) Rockwell Automation FactoryTalk View SE RegisterEDSFiles Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-12001,Rockwell Automation,22/06/2020,(Pwn2Own) Rockwell Automation FactoryTalk Linx CopyRenameProject Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-12027,Rockwell Automation,22/06/2020,(Pwn2Own) Rockwell Automation Studio 5000 Version Missing Authentication for Critical Function Information Disclosure Vulnerability
+CVE-2020-12031-,Rockwell Automation,22/06/2020,(Pwn2Own) Rockwell Automation FactoryTalk View SE Project File Parsing Out-Of-Bounds Access Remote Code Execution Vulnerability
+CVE-2020-12029,Rockwell Automation,22/06/2020,(Pwn2Own) Rockwell Automation FactoryTalk View SE Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-12028,Rockwell Automation,22/06/2020,(Pwn2Own) Rockwell Automation FactoryTalk View SE Backup Missing Authentication for Critical Function Vulnerability
+CVE-2020-12027,Rockwell Automation,22/06/2020,(Pwn2Own) Rockwell Automation FactoryTalk View SE GetHMIProjectPaths Missing Authentication for Critical Function Information Disclosure Vulnerability
+CVE-2020-12027,Rockwell Automation,22/06/2020,(Pwn2Own) Rockwell Automation FactoryTalk View SE GetHMIProjects Missing Authentication for Critical Function Information Disclosure Vulnerability
+CVE-2020-9662,Adobe,18/06/2020,Adobe After Effects MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9660,Adobe,18/06/2020,Adobe After Effects MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9661,Adobe,18/06/2020,Adobe After Effects 3GP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-9655,Adobe,18/06/2020,Adobe Premiere Rush 3GP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-9656,Adobe,18/06/2020,Adobe Premiere Rush MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9657,Adobe,18/06/2020,Adobe Premiere Rush MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9659,Adobe,18/06/2020,Adobe Audition MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9658,Adobe,18/06/2020,Adobe Audition MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9652,Adobe,18/06/2020,Adobe Premiere Pro 3GP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-9653,Adobe,18/06/2020,Adobe Premiere Pro MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9654,Adobe,18/06/2020,Adobe Premiere Pro MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Docker,15/06/2020,Docker Desktop Execution with Unnecessary Privileges Privilege Escalation Vulnerability
+,Inductive Automation,15/06/2020,(0Day) (Pwn2Own) Inductive Automation Ignition ServerMessageHeader Deserialization of Untrusted Data Information Disclosure Vulnerability
+,NETGEAR,15/06/2020,(0Day) NETGEAR R6700 httpd strtblupgrade Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,NETGEAR,15/06/2020,(0Day) NETGEAR R6700 httpd Firmware Upload Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,NETGEAR,15/06/2020,(0Day) NETGEAR R6700 httpd Improper Access Control Information Disclosure Vulnerability
+CVE-2020-4216,IBM,15/06/2020,IBM Spectrum Protect Plus Hardcoded Username And Password Authentication Bypass Vulnerability
+,NETGEAR,15/06/2020,(0Day) NETGEAR R6700 httpd strtblupgrade Integer Overflow Remote Code Execution Vulnerability
+,NETGEAR,15/06/2020,(0Day) NETGEAR R6700 httpd strtblupgrade Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,NETGEAR,15/06/2020,(0Day) (Pwn2Own) NETGEAR R6700 check_ra Use of a Broken or Risky Cryptographic Algorithm Remote Code Execution Vulnerability
+,NETGEAR,15/06/2020,(0Day) (Pwn2Own) NETGEAR R6700 check_ra Download of Code Without Integrity Check Remote Code Execution Vulnerability
+,NETGEAR,15/06/2020,(0Day) (Pwn2Own) NETGEAR R6700 check_ra Improper Certificate Validation Remote Code Execution Vulnerability
+,NETGEAR,15/06/2020,(0Day) (Pwn2Own) NETGEAR R6700 UPnP NewBlockSiteName Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,NETGEAR,15/06/2020,(0Day) (Pwn2Own) NETGEAR R6700 UPnP SOAPAction Authentication Bypass Vulnerability
+CVE-2020-7280,McAfee,15/06/2020,McAfee VirusScan Enterprise Junction Privilege Escalation Vulnerability
+,Apple,09/06/2020,(0Day) (Pwn2Own) Apple macOS Quarantine Attribute Bypass Vulnerability
+CVE-2020-9634,Adobe,09/06/2020,Adobe FrameMaker GIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9635,Adobe,09/06/2020,Adobe FrameMaker PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1219,Microsoft,09/06/2020,Microsoft Chakra Intl Object Type Confusion Remote Code Execution Vulnerability
+CVE-2020-1239,Microsoft,09/06/2020,Microsoft Windows Media Player mpg2splt Integer Underflow Remote Code Execution Vulnerability
+CVE-2020-1238,Microsoft,09/06/2020,Microsoft Windows Media Foundation Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1238,Microsoft,09/06/2020,Microsoft Windows Media Foundation Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1181,Microsoft,09/06/2020,Microsoft SharePoint Server Web Part Remote Code Execution Vulnerability
+CVE-2020-1232,Microsoft,09/06/2020,Microsoft Windows Media Player DTS Stream Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-1207,Microsoft,09/06/2020,Microsoft Windows win32kfull PDEVOBJ Use-After-Free Privilege Escalation Vulnerability
+CVE-2020-13818,ManageEngine,09/06/2020,ManageEngine OpManager OpmSkipFilter Directory Traversal Information Disclosure Vulnerability
+CVE-2020-4449,IBM,05/06/2020,IBM WebSphere Application Server IIOP Deserialization of Untrusted Data Information Disclosure Vulnerability
+CVE-2020-4450,IBM,05/06/2020,IBM WebSphere Application Server IIOP Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-4448,IBM,05/06/2020,IBM WebSphere UploadFileArgument Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-12000,Inductive Automation,01/06/2020,(Pwn2Own) Inductive Automation Ignition ServerMessageHeader Deserialization Of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-10644,Inductive Automation,01/06/2020,(Pwn2Own) Inductive Automation Ignition getDiffs Deserialization Of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-12004,Inductive Automation,01/06/2020,(Pwn2Own) Inductive Automation Ignition getDiffs Missing Authentication for Critical Function Information Disclosure Vulnerability
+CVE-2020-10917,NEC,01/06/2020,NEC ESMPRO Manager RMI Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-9841,Apple,28/05/2020,Apple macOS SkyLight Integer Overflow Privilege Escalation Vulnerability
+CVE-2020-9800,Apple,28/05/2020,Apple Safari HasIndexedProperty Type Confusion Remote Code Execution Vulnerability
+CVE-2020-9839,Apple,28/05/2020,(Pwn2Own) Apple macOS cfprefsd Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-9856,Apple,28/05/2020,(Pwn2Own) Apple macOS Core Virtual Machine Service Heap-based Buffer Overflow Vulnerability
+CVE-2020-9801,Apple,28/05/2020,(Pwn2Own) Apple Safari Symbolic Link Arbitrary Application Execution Vulnerability
+CVE-2020-8604,Trend Micro,27/05/2020,Trend Micro InterScan Web Security Virtual Appliance Apache Solr Directory Traversal Information Disclosure Vulnerability
+CVE-2020-8606,Trend Micro,27/05/2020,Trend Micro InterScan Web Security Virtual Appliance Apache Solr Authentication Bypass Vulnerability
+CVE-2020-8605,Trend Micro,27/05/2020,Trend Micro InterScan Web Security Virtual Appliance Command Injection Remote Code Execution Vulnerability
+CVE-2020-8603,Trend Micro,27/05/2020,Trend Micro InterScan Web Security Virtual Appliance Cross-Site Scripting Vulnerability
+CVE-2020-9815,Apple,27/05/2020,Apple macOS AudioToolboxCore CAF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9816,Apple,27/05/2020,Apple macOS libFontParser Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9850,Apple,27/05/2020,(Pwn2Own) Apple Safari In Operator JIT Type Confusion Remote Code Execution Vulnerability
+CVE-2020-9791,Apple,27/05/2020,Apple macOS AudioToolboxCore AIFF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9617,Adobe,25/05/2020,Adobe Premiere Rush MOV File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9616,Adobe,25/05/2020,Adobe Premiere Pro MOV File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9586,Adobe,25/05/2020,Adobe Character Animator EPS BoundingBox Element Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-9618,Adobe,25/05/2020,Adobe Audition MOV File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Microsoft,19/05/2020,(0Day) Microsoft Windows WLAN Connection Profile Missing Authentication Privilege Escalation Vulnerability
+CVE-2020-0916,Microsoft,19/05/2020,(0Day) Microsoft Windows splwow64 Untrusted Pointer Dereference Privilege Escalation Vulnerability
+CVE-2020-0915,Microsoft,19/05/2020,(0Day) Microsoft Windows splwow64 Untrusted Pointer Dereference Information Disclosure Vulnerability
+CVE-2020-0986,Microsoft,19/05/2020,(0Day) Microsoft Windows splwow64 Untrusted Pointer Dereference Privilege Escalation Vulnerability
+CVE-2020-0915,Microsoft,19/05/2020,(0Day) Microsoft Windows splwow64 Untrusted Pointer Dereference Privilege Escalation Vulnerability
+CVE-2020-7455,FreeBSD,19/05/2020,FreeBSD Kernel NAT Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-7454,FreeBSD,19/05/2020,FreeBSD Kernel NAT Out-Of-Bounds Access Remote Code Execution Vulnerability
+CVE-2020-7454,FreeBSD,19/05/2020,FreeBSD Kernel NAT Out-Of-Bounds Access Remote Code Execution Vulnerability
+CVE-2020-7493,Schneider Electric,14/05/2020,Schneider Electric EcoStruxure Operator Terminal Expert VXDZ File Parsing Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-7495,Schneider Electric,14/05/2020,(Pwn2Own) Schneider Electric EcoStructure Operator Terminal Expert ZIP Path Traversal Remote Code Execution Vulnerability
+CVE-2020-7494,Schneider Electric,14/05/2020,(Pwn2Own) Schneider Electric EcoStructure Operator Terminal Expert VXDZ Arbitrary Library Load Remote Code Execution Vulnerability
+CVE-2020-12019,Advantech,14/05/2020,(0Day) Advantech WebAccess Node Incorrect Permission Assignment Privilege Escalation Vulnerability
+CVE-2020-12019,Advantech,14/05/2020,(0Day) Advantech WebAccess Node DATACORE Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-9612,Adobe,12/05/2020,Adobe Acrobat Reader DC JPEG2000 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-9597,Adobe,12/05/2020,Adobe Acrobat Reader DC JPEG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9606,Adobe,12/05/2020,(Pwn2Own) Adobe Acrobat Reader DC Field Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-6652,Eaton,12/05/2020,Eaton Intelligent Power Manager mc2 Incorrect Privilege Assignment Privilege Escalation Vulnerability
+CVE-2020-6651,Eaton,12/05/2020,Eaton Intelligent Power Manager mc2 Command Injection Remote Code Execution Vulnerability
+CVE-2020-1102,Microsoft,12/05/2020,Microsoft SharePoint Shared Forms Incomplete Blacklist Remote Code Execution Vulnerability
+CVE-2020-0987,Microsoft,12/05/2020,Microsoft Windows EMF EMR_SETDIBITSTODEVICE Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-1135,Microsoft,12/05/2020,(Pwn2Own) Microsoft Windows DirectComposition SetReferenceArrayProperty Use-After-Free Privilege Escalation Vulnerability
+CVE-2020-1062,Microsoft,12/05/2020,Microsoft Internet Explorer JScript Garbage Collection Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-1126,Microsoft,12/05/2020,Microsoft Windows Media Player HEVC Stream Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1126,Microsoft,12/05/2020,Microsoft Windows Media Player HEVC Stream Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-1028,Microsoft,12/05/2020,Microsoft Windows Media Player HEVC Stream Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-1096,Microsoft,12/05/2020,Microsoft Windows PDF Library DirectWrite Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-1051,Microsoft,12/05/2020,Microsoft Windows JET Database Engine Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-1150,Microsoft,12/05/2020,Microsoft Internet Explorer CWMPErrorDlg Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-1176,Microsoft,12/05/2020,Microsoft Windows JET Database Engine Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-1174,Microsoft,12/05/2020,Microsoft Windows JET Database Engine Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-1175,Microsoft,12/05/2020,Microsoft Windows JET Database Engine Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA BwBacNetJ Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12002,Advantech,08/05/2020,Advantech WebAccess/SCADA BwBacNetJ Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12002,Advantech,08/05/2020,Advantech WebAccess/SCADA BwBacNetJ Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Advantech,08/05/2020,Advantech WebAccess IOCTL 0x2711 bwscrp Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA BwWebSvc IOCTL 0x00013c80 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12018,Advantech,08/05/2020,Advantech WebAccess/SCADA DrawSrv IOCTL 0x00002722 Out-Of-Bounds Read Information Disclosure Vulnerability
+,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x5217 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12018,Advantech,08/05/2020,Advantech WebAccess/SCADA ViewSrv IOCTL 0x00002722 Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-12026,Advantech,08/05/2020,Advantech WebAccess/SCADA DrawSrv IOCTL 0x0000277d Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-12026,Advantech,08/05/2020,Advantech WebAccess/SCADA ViewSrv IOCTL 0x0000277d Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-12002,Advantech,08/05/2020,Advantech WebAccess/SCADA SyntecUA Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12002,Advantech,08/05/2020,Advantech WebAccess/SCADA OPCUA Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA ModDuDrv Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12002,Advantech,08/05/2020,Advantech WebAccess/SCADA GpsET200 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA BwTCPIP Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA BwTCPIP Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12002,Advantech,08/05/2020,Advantech WebAccess/SCADA BacNetDrvJ Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA BwWebSvc IOCTL 0x00013c84 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA BwWebSvc IOCTL 0x00013c7b Integer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA BwWebSvc IOCTL 0x00013c77 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12014,Advantech,08/05/2020,Advantech WebAccess/SCADA BwWebSvc IOCTL 0x00013c76 IOCTL 0x00013c77 SQL Injection Information Disclosure Vulnerability
+CVE-2020-12014,Advantech,08/05/2020,Advantech WebAccess/SCADA BwWebSvc IOCTL 0x00013c74 IOCTL 0x00013c75 SQL Injection Information Disclosure Vulnerability
+CVE-2020-12014,Advantech,08/05/2020,Advantech WebAccess/SCADA BwWebSvc IOCTL 0x00013c71 SQL Injection Information Disclosure Vulnerability
+,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x5218 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x521B Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x520B Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x5213 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x5208 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x5209 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x520B Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12006,Advantech,08/05/2020,Advantech WebAccess/SCADA DrawSrv IOCTL 0x00002711 Command Injection Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA DrawSrv IOCTL 0x00002774 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA DrawSrv IOCTL 0x00002723 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA DrawSrv IOCTL 0x00002775 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x0000791d Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x0000791e Integer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x0000791c Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12022,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x0000521e Improper Validation of Array Index Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x00005226 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA ViewSrv IOCTL 0x00002775 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12006,Advantech,08/05/2020,Advantech WebAccess/SCADA ViewSrv IOCTL 0x00002711 Command Injection Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA ViewSrv IOCTL 0x00002774 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10638,Advantech,08/05/2020,Advantech WebAccess/SCADA ViewSrv IOCTL 0x00002723 Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12002,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x00005227 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12002,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x0000791e Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-12002,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x00005241 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12006,Advantech,08/05/2020,Advantech WebAccess/SCADA DATACORE IOCTL 0x0000791e Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-10626,Schneider Electric,06/05/2020,Schneider Electric EcoStruxure IT Gateway Improper Access Control Privilege Escalation Vulnerability
+CVE-2020-3915,Apple,06/05/2020,Apple macOS printtool Daemon Improper Input Validation Privilege Escalation Vulnerability
+,Trading Technologies,06/05/2020,Trading Technologies X_TRADER remove_park Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Trading Technologies,06/05/2020,Trading Technologies X_TRADER disconnect_proxy_site Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Trading Technologies,06/05/2020,Trading Technologies X_TRADER block_proxy_site Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Trading Technologies,06/05/2020,Trading Technologies X_TRADER unblock_proxy_site Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-2575,Oracle,30/04/2020,(Pwn2Own) Oracle VirtualBox OHCI Uninitialized Variable Privilege Escalation Vulnerability
+CVE-2020-2894,Oracle,30/04/2020,(Pwn2Own) Oracle VirtualBox E1000 IP Checksum Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9568,Adobe,30/04/2020,Adobe Bridge DCM File Parsing Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-3765,Adobe,30/04/2020,Adobe After Effects MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-0744,Microsoft,30/04/2020,Microsoft Windows user32 DIB Scaling Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-10622,LAquis,30/04/2020,LAquis SCADA LGX File Insufficient UI Warning Information Disclosure Vulnerability
+CVE-2020-10622,LAquis,30/04/2020,LAquis SCADA LGX File Insufficient UI Warning Information Disclosure Vulnerability
+CVE-2020-10618,LAquis,30/04/2020,LAquis SCADA LGX File Insufficient UI Warning Arbitrary File Creation Vulnerability
+CVE-2020-10618,LAquis,30/04/2020,LAquis SCADA LGX File Insufficient UI Warning Arbitrary File Creation Vulnerability
+CVE-2020-10618,LAquis,30/04/2020,LAquis SCADA LGX File Insufficient UI Warning Arbitrary File Creation Vulnerability
+CVE-2020-10618,LAquis,30/04/2020,LAquis SCADA LGX File Insufficient UI Warning Arbitrary File Creation Vulnerability
+CVE-2020-10618,LAquis,30/04/2020,LAquis SCADA LGX File Insufficient UI Warning Arbitrary File Creation Vulnerability
+CVE-2020-2883,Oracle,30/04/2020,Oracle WebLogic Server T3 Protocol Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-9553,Adobe,30/04/2020,Adobe Bridge TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9565,Adobe,28/04/2020,Adobe Bridge PostScript callothersubr Command Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9567,Adobe,28/04/2020,Adobe Bridge TTF File Parsing Use-After-Free Information Disclosure Vulnerability
+CVE-2020-9554,Adobe,28/04/2020,Adobe Bridge GIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9555,Adobe,28/04/2020,Adobe Bridge EPS BoundingBox Element Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-9556,Adobe,28/04/2020,Adobe Bridge PostScript put Command Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9557,Adobe,28/04/2020,Adobe Bridge PostScript blend Command Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-9558,Adobe,28/04/2020,Adobe Bridge PostScript File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-9560,Adobe,28/04/2020,Adobe Bridge PostScript drop Command Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9559,Adobe,28/04/2020,Adobe Bridge PostScript load Command Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9561,Adobe,28/04/2020,Adobe Bridge PostScript callothersubr Command Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9562,Adobe,28/04/2020,Adobe Bridge PCX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-9563,Adobe,28/04/2020,Adobe Bridge PostScript CharString Directory Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-9564,Adobe,28/04/2020,Adobe Bridge PostScript hsbw Command Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9569,Adobe,28/04/2020,Adobe Bridge TIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-9566,Adobe,28/04/2020,Adobe Bridge PostScript File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-10916,TP-Link,28/04/2020,TP-Link TL-WA855RE login.json Improper Authentication Privilege Escalation Vulnerability
+CVE-2020-0744,Microsoft,23/04/2020,Microsoft Windows gdi32full StretchDIBitsImpl Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2911,Oracle,20/04/2020,Oracle VirtualBox vmsvga3dSetLightData Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-2701,Oracle,20/04/2020,Oracle VirtualBox xHCI Heap-based Buffer Overflow Privilege Escalation Vulnerability
+CVE-2020-10611,Triangle MicroWorks,16/04/2020,(Pwn2Own) Triangle MicroWorks SCADA Data Gateway DNP3 Type Confusion Remote Code Execution Vulnerability
+CVE-2020-10613,Triangle MicroWorks,16/04/2020,(Pwn2Own) Triangle MicroWorks SCADA Data Gateway DNP3 Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-10615,Triangle MicroWorks,16/04/2020,(Pwn2Own) Triangle Microworks SCADA Data Gateway DNP3 GET_FILE_INFO Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10915,Veeam,16/04/2020,Veeam ONE HandshakeResult Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-10914,Veeam,16/04/2020,Veeam ONE PerformHandshake Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-3249,Cisco,16/04/2020,Cisco UCS Director saveWindowsNetworkConfig Directory Traversal Denial-of-Service Vulnerability
+CVE-2020-3248,Cisco,16/04/2020,Cisco UCS Director saveStaticConfig Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-3240,Cisco,16/04/2020,Cisco UCS Director ScriptModuleAddJarPage Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-3247,Cisco,16/04/2020,Cisco UCS Director CopyFileRunnable run Symlink Following Remote Code Execution Vulnerability
+CVE-2020-3243,Cisco,16/04/2020,Cisco UCS Director isEnableRestKeyAccessCheckForUser Authentication Bypass Vulnerability
+CVE-2020-3239,Cisco,16/04/2020,Cisco UCS Director ApplianceStorageUtil unzip Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-3250,Cisco,16/04/2020,Cisco UCS Director downloadFile Directory Traversal Information Disclosure Vulnerability
+,Amazon,16/04/2020,(Pwn2Own) Amazon Echo Show Integer Overflow Remote Code Execution Vulnerability
+CVE-2020-8867,OPC Foundation,16/04/2020,(Pwn2Own) OPC Foundation UA .NET Standard CreateSessionRequest Race Condition Denial-of-Service Vulnerability
+CVE-2020-10907,Foxit,16/04/2020,Foxit Reader XFA Widget Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-10906,Foxit,16/04/2020,Foxit Reader resetForm Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-10905,Foxit,16/04/2020,Foxit PhantomPDF U3D File Parsing vertex Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-10904,Foxit,16/04/2020,Foxit PhantomPDF U3DBrowser U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-10903,Foxit,16/04/2020,Foxit PhantomPDF U3DBrowser U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-10902,Foxit,16/04/2020,Foxit PhantomPDF U3DBrowser U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-10901,Foxit,16/04/2020,Foxit PhantomPDF U3DBrowser U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-10900,Foxit,16/04/2020,Foxit Reader AcroForm Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-10899,Foxit,16/04/2020,Foxit Reader XFA Template Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-10898,Foxit,16/04/2020,Foxit PhantomPDF U3DBrowser U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-10897,Foxit,16/04/2020,Foxit PhantomPDF U3DBrowser U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-10896,Foxit,16/04/2020,Foxit PhantomPDF U3DBrowser U3D File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10895,Foxit,16/04/2020,Foxit PhantomPDF U3DBrowser U3D File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-10894,Foxit,16/04/2020,Foxit PhantomPDF U3DBrowser U3D File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-10893,Foxit,16/04/2020,Foxit PhantomPDF U3DBrowser U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-10913,Foxit,16/04/2020,Foxit PhantomPDF OCRAndExportToExcel Type Confusion Remote Code Execution Vulnerability
+CVE-2020-10912,Foxit,16/04/2020,Foxit PhantomPDF SetFieldValue Type Confusion Remote Code Execution Vulnerability
+CVE-2020-10911,Foxit,16/04/2020,Foxit PhantomPDF GetFieldValue Type Confusion Remote Code Execution Vulnerability
+CVE-2020-10910,Foxit,16/04/2020,Foxit PhantomPDF RotatePage Type Confusion Remote Code Execution Vulnerability
+CVE-2020-10909,Foxit,16/04/2020,Foxit PhantomPDF AddWatermark Type Confusion Remote Code Execution Vulnerability
+CVE-2020-10908,Foxit,16/04/2020,Foxit PhantomPDF Export Type Confusion Remote Code Execution Vulnerability
+CVE-2020-10891,Foxit,16/04/2020,Foxit PhantomPDF Save Type Confusion Remote Code Execution Vulnerability
+CVE-2020-10892,Foxit,16/04/2020,Foxit PhantomPDF CombineFiles Arbitrary File Write Remote Code Execution Vulnerability
+CVE-2020-10890,Foxit,16/04/2020,Foxit PhantomPDF ConvertToPDF Arbitrary File Write Remote Code Execution Vulnerability
+CVE-2020-10889,Foxit,16/04/2020,Foxit PhantomPDF DuplicatePages Type Confusion Remote Code Execution Vulnerability
+CVE-2020-2907,Oracle,16/04/2020,Oracle VirtualBox VBoxSVGA Type Confusion Privilege Escalation Vulnerability
+CVE-2020-2907,Oracle,16/04/2020,Oracle VirtualBox VBoxSVGA Type Confusion Privilege Escalation Vulnerability
+CVE-2020-2929,Oracle,16/04/2020,Oracle VirtualBox SLiRP Networking Out-Of-Bounds Access Remote Code Execution Vulnerability
+CVE-2020-2758,Oracle,16/04/2020,Oracle VirtualBox VBoxVGA VBoxVHWASurfaceBase Use-After-Free Privilege Escalation Vulnerability
+CVE-2020-2748,Oracle,16/04/2020,Oracle VirtualBox vmsvgaR3FifoUpdateCursor Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2950,Oracle,16/04/2020,Oracle Business Intelligence AMF Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-2883,Oracle,16/04/2020,Oracle WebLogic Server T3 Protocol Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-2956,Oracle,16/04/2020,Oracle E-Business Suite Human Resources Organization Hierarchy Viewer PosServer SQL Injection Privilege Escalation Vulnerability
+CVE-2020-2882,Oracle,16/04/2020,Oracle E-Business Suite Human Resources Organization Hierarchy Viewer OrgServer SQL Injection Privilege Escalation Vulnerability
+CVE-2020-2908,Oracle,16/04/2020,Oracle VirtualBox Virtual USB Numeric Truncation Privilege Escalation Vulnerability
+CVE-2020-2743,Oracle,16/04/2020,Oracle VirtualBox xHCI Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2742,Oracle,16/04/2020,Oracle VirtualBox xHCI Integer Overflow Privilege Escalation Vulnerability
+CVE-2020-2741,Oracle,16/04/2020,Oracle VirtualBox shader_glsl_get_register_name Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2902,Oracle,16/04/2020,Oracle VirtualBox D3D9 Shader Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-0558,Intel,15/04/2020,Intel Wi-Fi Link Driver Netwtw06 Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-0558,Intel,15/04/2020,Intel Wi-Fi Link Driver Netwtw06 Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-0558,Intel,15/04/2020,Intel Wi-Fi Link Driver Netwtw04 Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-10637,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wTextLen Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-10637,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wDescribeLen Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-10637,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing Giffile Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-10637,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing Base64TextLen Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing LinkSize Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing LinkSize Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing GifName Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wTitleTextLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wMailBlindCopyToLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wMessageLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wMailToLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wMailCopyToLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wMailContentLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wTextLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wTDateLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wTTimeLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wKPFStringLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wKPFStringLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wTitleLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wKPFString Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing LinkSize Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10639,Eaton,15/04/2020,Eaton HMiSoft VU3 File Parsing wTextLen Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-0906,Microsoft,15/04/2020,Microsoft Excel XLS File Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-0906,Microsoft,15/04/2020,Microsoft Excel XLSM File Use-After-Free Information Disclosure Vulnerability
+CVE-2020-0932,Microsoft,15/04/2020,Microsoft SharePoint TypeConverter Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-0821,Microsoft,15/04/2020,Microsoft Windows user32 Icon Extraction Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-0953,Microsoft,15/04/2020,Microsoft Windows JET Database Engine Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-0931,Microsoft,15/04/2020,Microsoft SharePoint Scorecards Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-0960,Microsoft,15/04/2020,Microsoft Windows JET Database Engine Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-0959,Microsoft,15/04/2020,Microsoft Windows JET Database Engine Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-0953,Microsoft,15/04/2020,Microsoft Windows JET Database Engine Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-0992,Microsoft,15/04/2020,Microsoft Windows JET Database Engine Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-0992,Microsoft,15/04/2020,Microsoft Windows JET Database Engine Integer Underflow Remote Code Execution Vulnerability
+CVE-2020-0956,Microsoft,15/04/2020,Microsoft Windows Palette Object Use-After-Free Privilege Escalation Vulnerability
+CVE-2020-0988,Microsoft,15/04/2020,Microsoft Windows JET Database Engine Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-0994,Microsoft,15/04/2020,Microsoft Windows JET Database Engine Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-0821,Microsoft,15/04/2020,Microsoft Windows KERNELBASE Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3809,Adobe,15/04/2020,Adobe After Effects TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Fuji Electric,09/04/2020,Fuji Electric V-Server Lite VPR File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+,Fuji Electric,09/04/2020,Fuji Electric V-Server Lite VPR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-10646,Fuji Electric,09/04/2020,Fuji Electric V-Server Lite VPR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-10646,Fuji Electric,09/04/2020,Fuji Electric V-Server Lite VPR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-12010,Advantech,08/04/2020,(0Day) Advantech WebAccess IOCTL 0x2738 Arbitrary File Deletion Vulnerability
+CVE-2020-12010,Advantech,08/04/2020,(0Day) Advantech WebAccess IOCTL 0x2711 BwFLApp Arbitrary File Deletion Vulnerability
+CVE-2020-12010,Advantech,08/04/2020,(0Day) Advantech WebAccess IOCTL 0x2711 BwPSLink Arbitrary File Deletion Vulnerability
+CVE-2020-12010,Advantech,08/04/2020,(0Day) Advantech WebAccess IOCTL 0x2711 BwPFile Arbitrary File Deletion Vulnerability
+CVE-2020-12010,Advantech,08/04/2020,(0Day) Advantech WebAccess webvrpc IOCTL 0x2715 Arbitrary File Deletion Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS addLinkMonitor SQL Injection Information Disclosure Vulnerability
+CVE-2020-10603,Advantech,08/04/2020,Advantech WebAccess/NMS DatabaseMgmtResource OS Command Injection Remote Code Execution Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS getTrunkNumber SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10623,Advantech,08/04/2020,Advantech WebAccess/NMS setDevicechoose SQL Injection Information Disclosure Vulnerability
+CVE-2020-10623,Advantech,08/04/2020,Advantech WebAccess/NMS getFWUpgradeInfo SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10625,Advantech,08/04/2020,Advantech WebAccess/NMS UsersInputAction Missing Authentication for Critical Function Authentication Bypass Vulnerability
+CVE-2020-10623,Advantech,08/04/2020,Advantech WebAccess/NMS getSyslogUiList SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DeviceData Performance SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS MibBrowser SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS MibBrowser SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS single-vlan-info SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10621,Advantech,08/04/2020,Advantech WebAccess/NMS ProfileResource Unrestricted File Upload Remote Code Execution Vulnerability
+CVE-2020-10621,Advantech,08/04/2020,Advantech WebAccess/NMS DBBackupResource Unrestricted File Upload Remote Code Execution Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10621,Advantech,08/04/2020,Advantech WebAccess/NMS ConfigRestoreAction Unrestricted File Upload Remote Code Execution Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10621,Advantech,08/04/2020,Advantech WebAccess/NMS DBBackupRestoreAction Unrestricted File Upload Remote Code Execution Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+,Advantech,08/04/2020,Advantech WebAccess/NMS AccesslogAction SQL Injection Information Disclosure Vulnerability
+CVE-2020-10621,Advantech,08/04/2020,Advantech WebAccess/NMS SupportDeviceaddAction Arbitrary File Upload Remote Code Execution Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS DBUtil SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS forcedScanDevice SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS FwStatusReportAction SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS FwStatusReportAction SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS TopogroupeditAction SQL Injection Information Disclosure Vulnerability
+CVE-2020-10621,Advantech,08/04/2020,Advantech WebAccess/NMS FwUpgradeAction Unrestricted File Upload Remote Code Execution Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS TopogroupeditAction SQL Injection Information Disclosure Vulnerability
+CVE-2020-10621,Advantech,08/04/2020,Advantech WebAccess/NMS extProgramAction Unrestricted File Upload Remote Code Execution Vulnerability
+CVE-2020-10621,Advantech,08/04/2020,Advantech WebAccess/NMS extProgramAction Unrestricted File Upload Remote Code Execution Vulnerability
+CVE-2020-10621,Advantech,08/04/2020,Advantech WebAccess/NMS LicenseImportAction Unrestricted File Upload Remote Code Execution Vulnerability
+CVE-2020-10631,Advantech,08/04/2020,Advantech WebAccess/NMS download.jsp Directory Traversal Information Disclosure and Denial-of-Service Vulnerability
+CVE-2020-10621,Advantech,08/04/2020,Advantech WebAccess/NMS FwUpgradeAction Unrestricted File Upload Remote Code Execution Vulnerability
+CVE-2020-10629,Advantech,08/04/2020,Advantech WebAccess/NMS MibbrowserTrapAddAction XML External Entity Reference Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS reflashEventLog SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS Login SQL Injection Information Disclosure Vulnerability
+CVE-2020-10619,Advantech,08/04/2020,Advantech WebAccess/NMS saveBackgroundAction Directory Traversal Denial-of-Service Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS saveBackground SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS EMSgroupAction SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS mibBrowserSetAction SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS searchDevice SQL Injection Information Disclosure Vulnerability
+CVE-2020-10617,Advantech,08/04/2020,Advantech WebAccess/NMS Login isAccessDenied SQL Injection Information Disclosure Vulnerability
+CVE-2020-10621,Advantech,08/04/2020,Advantech WebAccess/NMS saveBackground Unrestricted File Upload Remote Code Execution Vulnerability
+CVE-2020-3766,Adobe,07/04/2020,Adobe Acrobat Pro DC Genuine Software Service Incorrect Permission Assignment Privilege Escalation Vulnerability
+CVE-2020-7478,Schneider Electric,03/04/2020,Schneider Electric IGSS IGSSupdateservice Directory Traversal Information Disclosure Vulnerability
+CVE-2020-7479,Schneider Electric,03/04/2020,Schneider Electric IGSS IGSSupdateservice Improper Access Control Privilege Escalation Vulnerability
+,VMware,03/04/2020,VMware Workstation OVF NTLM Challenge Response Information Disclosure Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro PNG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro TIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro TIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro PNG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro TIF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro TIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro GIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro PNG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro TIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro TIF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro PSD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro PSD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro PSD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro PSD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro J2K File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro J2K File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro PSD File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+,Corel,02/04/2020,(0Day) Corel PaintShop Pro J2K File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-8835,Linux,31/03/2020,(Pwn2Own) Linux Kernel eBPF Improper Input Validation Privilege Escalation Vulnerability
+CVE-2020-4240,IBM,31/03/2020,IBM Spectrum Protect Plus plugin Directory Traversal File Creation Vulnerability
+CVE-2020-4241,IBM,31/03/2020,IBM Spectrum Protect Plus uploadHttpsCertificate Command Injection Remote Code Execution Vulnerability
+CVE-2020-4242,IBM,31/03/2020,IBM Spectrum Protect Plus uploadLdapCertificate Command Injection Remote Code Execution Vulnerability
+CVE-2020-4208,IBM,31/03/2020,IBM Spectrum Protect Plus serveradmin Authentication Bypass Vulnerability
+CVE-2020-4209,IBM,31/03/2020,IBM Spectrum Protect Plus uploadHttpsCertificate Directory Traversal File Creation Vulnerability
+CVE-2020-4209,IBM,31/03/2020,IBM Spectrum Protect Plus uploadLdapCertificate Directory Traversal File Creation Vulnerability
+CVE-2020-4214,IBM,31/03/2020,IBM Spectrum Protect Plus cleanupUpdateImage Arbitrary Directory Deletion Vulnerability
+CVE-2020-4206,IBM,31/03/2020,IBM Spectrum Protect Plus timezone Command Injection Remote Code Execution Vulnerability
+CVE-2020-3897,Apple,26/03/2020,Apple Safari Object Transition Cache Type Confusion Remote Code Execution Vulnerability
+CVE-2020-10888,TP-Link,25/03/2020,(Pwn2Own) TP-Link Archer A7 SSH Port Forwarding Authentication Bypass Vulnerability
+CVE-2020-10886,TP-Link,25/03/2020,(Pwn2Own) TP-Link Archer A7 tmpServer Command Injection Remote Code Execution Vulnerability
+CVE-2020-10887,TP-Link,25/03/2020,(Pwn2Own) TP-Link Archer A7 Protection Mechanism Failure Firewall Bypass Vulnerability
+CVE-2020-10885,TP-Link,25/03/2020,(Pwn2Own) TP-Link Archer A7 DNS Response Improper Input Validation Remote Code Execution Vulnerability
+CVE-2020-10884,TP-Link,25/03/2020,(Pwn2Own) TP-Link Archer A7 tdpServer Use of Hard-coded Cryptographic Key Remote Code Execution Vulnerability
+CVE-2020-10883,TP-Link,25/03/2020,(Pwn2Own) TP-Link Archer A7 File System Incorrect Permission Assignment for Critical Resource Privilege Escalation Vulnerability
+CVE-2020-10882,TP-Link,25/03/2020,(Pwn2Own) TP-Link Archer A7 tdpServer Command Injection Remote Code Execution Vulnerability
+CVE-2020-10881,TP-Link,25/03/2020,(Pwn2Own) TP-Link Archer A7 DNS Response Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-3764,Adobe,24/03/2020,Adobe Media Encoder CC MP4 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3764,Adobe,24/03/2020,Adobe Media Encoder 3GP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3802,Adobe,19/03/2020,Adobe Acrobat Reader DC XFA Template Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-9552,Adobe,19/03/2020,Adobe Bridge XD File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-9551,Adobe,19/03/2020,Adobe Bridge CC GIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3766,Adobe,19/03/2020,Adobe Acrobat Pro DC Genuine Software Service Incorrect Permission Assignment Privilege Escalation Vulnerability
+CVE-2020-3766,Adobe,19/03/2020,Adobe Acrobat Pro DC Genuine Software Service Incorrect Permission Assignment Privilege Escalation Vulnerability
+CVE-2020-3791,Adobe,19/03/2020,Adobe Photoshop Type 1 Font Parsing Charstring Out-of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3790,Adobe,19/03/2020,Adobe Photoshop DCM File Parsing Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-3782,Adobe,19/03/2020,Adobe Photoshop TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3781,Adobe,19/03/2020,Adobe Photoshop TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3780,Adobe,19/03/2020,Adobe Photoshop EPS BoundingBox Element Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-3779,Adobe,19/03/2020,Adobe Photoshop GIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3778,Adobe,19/03/2020,Adobe Photoshop TIF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3773,Adobe,19/03/2020,Adobe Photoshop U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3772,Adobe,19/03/2020,Adobe Photoshop U3D File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-3771,Adobe,19/03/2020,Adobe Photoshop DCM Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3770,Adobe,19/03/2020,Adobe Photoshop PCX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+,Samsung,18/03/2020,(Pwn2Own) Samsung Q60 Smart QLED TV JavaScript Integer Overflow Remote Code Execution Vulnerability
+,Microsoft,18/03/2020,Microsoft Windows AppX Deployment Service Hard Link Privilege Escalation Vulnerability
+CVE-2020-8870,Foxit,18/03/2020,Foxit Studio Photo GetTIFPalette TIF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-8869,Foxit,18/03/2020,Foxit Studio Photo TIF File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-6976,Delta Industrial Automation,17/03/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Giffile Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-7002,Delta Industrial Automation,17/03/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-7002,Delta Industrial Automation,17/03/2020,Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing GifName Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-8600,Trend Micro,17/03/2020,Trend Micro Worry-Free Business Security Directory Traversal Authentication Bypass Vulnerability
+CVE-2020-8883,Foxit,16/03/2020,Foxit Studio Photo EPS File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-8882,Foxit,16/03/2020,Foxit Studio Photo PSD File Parsing Uninitialized Pointer Remote Code Execution Vulnerability
+CVE-2020-8881,Foxit,16/03/2020,Foxit Studio Photo TIF File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-8880,Foxit,16/03/2020,Foxit Studio Photo TIF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-8879,Foxit,16/03/2020,Foxit Studio Photo PSD File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-8878,Foxit,16/03/2020,Foxit Studio Photo PSD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-8877,Foxit,16/03/2020,Foxit Studio Photo PSD File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3948,VMware,13/03/2020,VMware Workstation Virtual Printer External Control of File Name Privilege Escalation Vulnerability
+CVE-2020-3947,VMware,13/03/2020,VMware Workstation vmnetdhcp Use-After-Free Privilege Escalation Vulnerability
+CVE-2020-8876,Parallels,13/03/2020,Parallels Desktop OS X Host Kernel Module Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-8875,Parallels,13/03/2020,Parallels Desktop OS X Host Kernel Module Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-8874,Parallels,13/03/2020,Parallels Desktop xHCI Integer Overflow Privilege Escalation Vulnerability
+CVE-2020-8873,Parallels,13/03/2020,Parallels Desktop xHCI Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-8872,Parallels,13/03/2020,Parallels Desktop xHCI Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-8871,Parallels,13/03/2020,Parallels Desktop VGA Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-6208,SAP,12/03/2020,SAP Crystal Reports RPT File Parsing Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-8868,Quest,12/03/2020,Quest Foglight Evolve CommandLineService Use of Hard-coded Credentials Remote Code Execution Vulnerability
+CVE-2020-9530,Xiaomi,12/03/2020,(Pwn2Own) Xiaomi Mi9 Browser manualUpgradeInfo Improper Control of Generation of Code Remote Code Execution Vulnerability
+CVE-2020-9531,Xiaomi,12/03/2020,(Pwn2Own) Xiaomi GetApps Intent Privilege Escalation Vulnerability
+CVE-2020-9531,Xiaomi,12/03/2020,(Pwn2Own) Xiaomi Mi9 Browser Untrusted Site Redirection Remote Code Execution Vulnerability
+,Xiaomi,12/03/2020,(Pwn2Own) Xiaomi Mi9 Browser ParseFormalParameterList Improper Input Validation Remote Code Execution Vulnerability
+CVE-2020-0807,Microsoft,12/03/2020,Microsoft Windows Media Player AVI Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-0851,Microsoft,12/03/2020,Microsoft Word HTML Rendering Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-0887,Microsoft,12/03/2020,Microsoft Windows Printer Device Context Use-After-Free Privilege Escalation Vulnerability
+CVE-2020-0841,Microsoft,12/03/2020,Microsoft Windows DiagTrack Service Hard Link Denial-of-Service Vulnerability
+CVE-2020-0840,Microsoft,12/03/2020,Microsoft Windows AppX Deployment Service Hard Link Escalation of Privilege Vulnerability
+CVE-2020-0788,Microsoft,12/03/2020,Microsoft Windows CreateXlateObject Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-0788,Microsoft,12/03/2020,Microsoft Windows CreateXlateObject Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-0788,Microsoft,12/03/2020,Microsoft Windows ulGetNearestIndexFromColorref Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-0776,Microsoft,12/03/2020,Microsoft Windows AppX Deployment Service Link Resolution Denial-of-Service Vulnerability
+CVE-2020-8865,Horde,10/03/2020,Horde Groupware Webmail Edition edit Page Directory Traversal Remote Code Execution Vulnerability
+CVE-2020-8866,Horde,10/03/2020,Horde Groupware Webmail Edition add Page Unrestricted File Upload Arbitrary File Creation Vulnerability
+CVE-2020-4210,IBM,05/03/2020,IBM Spectrum Protect Plus changeAdministratorPassword Command Injection Remote Code Execution Vulnerability
+CVE-2020-4211,IBM,05/03/2020,IBM Spectrum Protect Plus hostname Command Injection Remote Code Execution Vulnerability
+CVE-2020-4212,IBM,05/03/2020,IBM Spectrum Protect Plus hfpackage Command Injection Remote Code Execution Vulnerability
+CVE-2020-4222,IBM,05/03/2020,IBM Spectrum Protect Plus password Command Injection Remote Code Execution Vulnerability
+CVE-2020-4213,IBM,05/03/2020,IBM Spectrum Protect Plus username Command Injection Remote Code Execution Vulnerability
+CVE-2020-3127,Cisco,05/03/2020,Cisco WebEx Network Recording Player ARF File Uninitialized Pointer Remote Code Execution Vulnerability
+CVE-2020-8864,D-Link,24/02/2020,D-Link Multiple Routers HNAP strncmp Incorrect Comparison Authentication Bypass Vulnerability
+CVE-2020-8863,D-Link,24/02/2020,D-Link Multiple Routers HNAP PrivateLogin Incorrect Implementation of Authentication Algorithm Authentication Bypass Vulnerability
+CVE-2020-8862,D-Link,21/02/2020,D-Link DAP-2610 Router login Incorrect Comparison Authentication Bypass Vulnerability
+CVE-2020-8861,D-Link,21/02/2020,D-Link DAP-1330 HNAP Incorrect Implementation of Authentication Algorithm Authentication Bypass Vulnerability
+,WECON,20/02/2020,(0Day) WECON LeviStudioU MulStatus szFilename Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,20/02/2020,(0Day) WECON LeviStudioU G_bmp szFilename Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,WECON,20/02/2020,(0Day) WECON LeviStudioU G_bmp szFilename Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-6967,Rockwell Automation,20/02/2020,(0Day) Rockwell Automation FactoryTalk RNADiagnosticsSrv Deserialization Of Untrusted Data Remote Code Execution Vulnerability
+,AMD,20/02/2020,(0Day) AMD Radeon Divide By Zero Denial of Service Vulnerability
+CVE-2020-0792,Microsoft,20/02/2020,Microsoft Windows NtUserResolveDesktopForWOW Heap-based Buffer Overflow Privilege Escalation Vulnerability
+CVE-2020-0688,Microsoft,20/02/2020,Microsoft Exchange Server Exchange Control Panel Fixed Cryptographic Key Remote Code Execution Vulnerability
+CVE-2020-0668,Microsoft,20/02/2020,Microsoft Windows Service Tracing Arbitrary File Move Privilege Escalation Vulnerability
+,Samsung,20/02/2020,(Pwn2Own) Samsung Galaxy S10 IndexedDB Use-After-Free Sandbox Escape Vulnerability
+CVE-2020-8860,Samsung,20/02/2020,(Pwn2Own) Samsung Galaxy S10 Call Control Setup Stack-based Buffer Overflow Remote Code Execution Vulnerability
+,Samsung,20/02/2020,(Pwn2Own) Samsung Galaxy S10 FileWriter Use-After-Free Sandbox Escape Vulnerability
+,Samsung,20/02/2020,(Pwn2Own) Samsung Galaxy S10 Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-8859,ELOG,12/02/2020,ELOG Electronic Logbook drop-count Null Pointer Dereference Denial-of-Service Vulnerability
+CVE-2020-3740,Adobe,12/02/2020,Adobe FrameMaker TIF File Parsing Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-3739,Adobe,12/02/2020,Adobe FrameMaker IFF File Parsing Memory Corruption Remote Code Execution Vulnerability
+CVE-2020-3748,Adobe,12/02/2020,Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-3738,Adobe,12/02/2020,Adobe FrameMaker TIF File Parsing Type Confusion Remote Code Execution Vulnerability
+CVE-2020-3737,Adobe,12/02/2020,Adobe FrameMaker TIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3736,Adobe,12/02/2020,Adobe FrameMaker GIF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3735,Adobe,12/02/2020,Adobe FrameMaker PSD File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-3734,Adobe,12/02/2020,Adobe FrameMaker TGA File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-3733,Adobe,12/02/2020,Adobe FrameMaker BMP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3732,Adobe,12/02/2020,Adobe FrameMaker IFF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3731,Adobe,12/02/2020,Adobe FrameMaker CEL File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2020-3730,Adobe,12/02/2020,Adobe FrameMaker RGB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3729,Adobe,12/02/2020,Adobe FrameMaker PCX File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3728,Adobe,12/02/2020,Adobe FrameMaker PIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3727,Adobe,12/02/2020,Adobe FrameMaker PSD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3726,Adobe,12/02/2020,Adobe FrameMaker BMP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3725,Adobe,12/02/2020,Adobe FrameMaker RGB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3724,Adobe,12/02/2020,Adobe FrameMaker RGB File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3723,Adobe,12/02/2020,Adobe FrameMaker TGA File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3722,Adobe,12/02/2020,Adobe FrameMaker BMP File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3721,Adobe,12/02/2020,Adobe FrameMaker TGA File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-3720,Adobe,12/02/2020,Adobe FrameMaker PIC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-5826,Symantec,11/02/2020,Symantec Endpoint Protection AvHostPlugin Out-of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-5825,Symantec,11/02/2020,Symantec Endpoint Protection AvHostPlugin Missing Authentication Arbitrary File Move Vulnerability
+CVE-2020-5825,Symantec,11/02/2020,Symantec Endpoint Protection AvHostPlugin Missing Authentication Denial-of-Service Vulnerability
+CVE-2020-5825,Symantec,11/02/2020,Symantec Endpoint Protection AvHostPlugin Missing Authentication Arbitrary File Rename Vulnerability
+CVE-2020-5831,Symantec,11/02/2020,Symantec Endpoint Protection Manager secars Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-5830,Symantec,11/02/2020,Symantec Endpoint Protection Manager secars Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-5829,Symantec,11/02/2020,Symantec Endpoint Protection Manager secars Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-5828,Symantec,11/02/2020,Symantec Endpoint Protection Manager secars Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-5824,Symantec,11/02/2020,Symantec Endpoint Protection AvHostPlugin Missing Authentication Denial-of-Service Vulnerability
+CVE-2020-5827,Symantec,11/02/2020,Symantec Endpoint Protection Manager secars Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-5823,Symantec,11/02/2020,Symantec Endpoint Protection ccJobMgr Missing Authentication Privilege Escalation Vulnerability
+CVE-2020-5822,Symantec,11/02/2020,Symantec Endpoint Protection ccSvc Missing Authentication Privilege Escalation Vulnerability
+CVE-2020-5820,Symantec,11/02/2020,Symantec Endpoint Protection AvHostPlugin Out-Of-Bounds Write Privilege Escalation Vulnerability
+CVE-2020-3877,Apple,11/02/2020,Apple Messages HandwritingProvider Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-3839,Apple,11/02/2020,Apple macOS IO80211Family Stack-based Buffer Overflow Information Disclosure Vulnerability
+CVE-2020-8858,Moxa,11/02/2020,Moxa MGate 5105-MB-EIP DestIP Command Injection Remote Code Execution Vulnerability
+CVE-2020-8857,Foxit,11/02/2020,Foxit Reader Annotations AcroForm Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-8856,Foxit,11/02/2020,Foxit PhantomPDF AcroForm addWatermarkFromText Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-8855,Foxit,11/02/2020,Foxit PhantomPDF fxhtml2pdf Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-8854,Foxit,11/02/2020,Foxit PhantomPDF JPEG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-8853,Foxit,11/02/2020,Foxit PhantomPDF HTML2PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-8852,Foxit,11/02/2020,Foxit Reader JPEG2000 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-8851,Foxit,11/02/2020,Foxit Reader JPG2000 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-8850,Foxit,11/02/2020,Foxit Reader JPEG2000 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-8849,Foxit,11/02/2020,Foxit Reader JPEG2000 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-8848,Foxit,11/02/2020,Foxit Reader JPG2000 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-8847,Foxit,11/02/2020,Foxit Reader JPEG2000 File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2020-8846,Foxit,11/02/2020,Foxit PhantomPDF text Field Object Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-8845,Foxit,11/02/2020,Foxit PhantomPDF AcroForm addWatermarkFromText Use-After-Free Remote Code Execution Vulnerability
+CVE-2020-8844,Foxit,11/02/2020,Foxit Reader ConvertToPDF JPEG Parsing Integer Overflow Remote Code Execution Vulnerability
+CVE-2019-14088,Google,07/02/2020,Google Android V4l2 cam_actuator_driver_cmd Use-After-Free Privilege Escalation Vulnerability
+CVE-2020-8095,Bitdefender,05/02/2020,Bitdefender Total Security Link Resolution Denial-of-Service Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center viewTaskResultDetailFact Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center userSelectPagingContent Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center tvxlanLegend Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center wmiConfigContent Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center forwardredirect Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center viewBatchTaskResultDetailFact Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center powershellConfigContent Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center smsRulesDownload Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center thirdPartyPerfSelectTask Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center reportpage index Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center sshConfig Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center perfAddorModDeviceMonitor Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center navigationTo Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center select Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center iccSelectCommand Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center iccSelectDeviceSeries Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center iccSelectDymicParam Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center perfSelectTask Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center selectUserGroup Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center actionSelectContent Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center operationSelect Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center reportTaskSelect Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center soapConfigContent Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center templateSelect Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center quickTemplateSelect Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center guiDataDetail Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center ictExpertCSVDownload Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center operatorGroupTreeSelectContent Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center operatorGroupSelectContent Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center selViewNavContent Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center mediaForAction Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center ictExpertDownload Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center iccSelectDevType Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center faultParasSet Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center faultInfo_content Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center select Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center faultTrapGroupSelect Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center faultStatChooseFaultType Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center ifViewSelectPage Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center ictExpertCSVDownload Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center ictExpertCSVDownload Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center iccSelectRules Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center faultFlashEventSelectFact Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center deviceSelect Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center devSoftSel Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center deviceThresholdConfig Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center compareFilesResult Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center deploySelectSoftware Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center deploySelectBootrom Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center devGroupSelect Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center customTemplateSelect Expression Language Injection Remote Code Execution Vulnerability
+,Hewlett Packard Enterprise,04/02/2020,(0Day) Hewlett Packard Enterprise Intelligent Management Center choosePerfView Expression Language Injection Remote Code Execution Vulnerability
+CVE-2019-16451,Adobe,03/02/2020,Adobe Acrobat Pro DC TTF Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+CVE-2019-8835,Apple,27/01/2020,Apple Safari SimpleLineLayout Use-After-Free Information Disclosure Vulnerability
+CVE-2020-0635,Microsoft,17/01/2020,Microsoft Windows WIA Junction Privilege Escalation Vulnerability
+CVE-2020-2727,Oracle,15/01/2020,Oracle VirtualBox e1000 Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2726,Oracle,15/01/2020,Oracle VirtualBox SCSI Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-2705,Oracle,15/01/2020,Oracle VirtualBox VMSVGA Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2704,Oracle,15/01/2020,Oracle VirtualBox VMSVGA Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2702,Oracle,15/01/2020,Oracle VirtualBox xHCI Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-2701,Oracle,15/01/2020,Oracle VirtualBox xHCI Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-2698,Oracle,15/01/2020,Oracle VirtualBox xHCI Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability
+CVE-2020-2693,Oracle,15/01/2020,Oracle VirtualBox e1000 Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2692,Oracle,15/01/2020,Oracle VirtualBox VMSVGA Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2691,Oracle,15/01/2020,Oracle VirtualBox VMSVGA Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2690,Oracle,15/01/2020,Oracle VirtualBox VMSVGA Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2689,Oracle,15/01/2020,Oracle VirtualBox VMSVGA Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2682,Oracle,15/01/2020,Oracle VirtualBox VBoxVHWAHandleTable Out-Of-Bounds Access Privilege Escalation Vulnerability
+CVE-2020-2681,Oracle,15/01/2020,Oracle VirtualBox VMSVGA Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-2555,Oracle,15/01/2020,Oracle WebLogic Server T3 Protocol Deserialization of Untrusted Data Remote Code Execution Vulnerability
+CVE-2020-0652,Microsoft,15/01/2020,Microsoft Office Graph Stack-based Buffer Overflow Remote Code Execution Vulnerability
+CVE-2017-5030,Sony,15/01/2020,(Pwn2Own) Sony X800G Smart TV Vewd Out-Of-Bounds Read Remote Code Execution Vulnerability
+CVE-2020-0634,Microsoft,15/01/2020,Microsoft Windows CLFS Use-After-Free Privilege Escalation Vulnerability
+CVE-2020-0616,Microsoft,15/01/2020,Microsoft Windows Device Management Enrollment Service Hard Link Denial-of-Service Vulnerability
+CVE-2020-0615,Microsoft,15/01/2020,Microsoft Windows CLFS Driver Out-Of-Bounds Read Information Disclosure Vulnerability
+CVE-2020-0639,Microsoft,15/01/2020,Microsoft Windows CLFS Driver Integer Overflow Information Disclosure Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLanSwitchDataLength SQL Injection Information Disclosure Vulnerability
+CVE-2019-15983,Cisco,03/01/2020,Cisco Data Center Network Manager getTopologyVlanList XML External Entity Processing Information Disclosure Vulnerability
+CVE-2019-15983,Cisco,03/01/2020,Cisco Data Center Network Manager CablePlans XML External Entity Processing Information Disclosure Vulnerability
+CVE-2019-15980,Cisco,03/01/2020,Cisco Data Center Network Manager getDeployContent Directory Traversal Information Disclosure Vulnerability
+CVE-2019-15983,Cisco,03/01/2020,Cisco Data Center Network Manager addGroupNavigation XML External Entity Processing Information Disclosure Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager checkLinkUUID SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSwitchsDataLength SQL Injection Information Disclosure Vulnerability
+CVE-2019-15983,Cisco,03/01/2020,Cisco Data Center Network Manager getInventoryIslList XML External Entity Processing Information Disclosure Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSwitchName SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getRpmJobLength SQL Injection Information Disclosure Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getConfigTemplateFileName SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSwitchDbIdBySerialNumber SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getGirTaskLength SQL Injection Information Disclosure Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getVpcCount SQL Injection Information Disclosure Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getJobLength SQL Injection Information Disclosure Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getZoneDataLength SQL Injection Information Disclosure Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getVsanDataLength SQL Injection Information Disclosure Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSanSwitchDataLength SQL Injection Information Disclosure Vulnerability
+CVE-2019-15982,Cisco,03/01/2020,Cisco Data Center Network Manager AFW Image Upload Directory Traversal Remote Code Execution Vulnerability
+CVE-2019-15978,Cisco,03/01/2020,Cisco Data Center Network Manager createLanFabric Command Injection Remote Code Execution Vulnerability
+CVE-2019-15980,Cisco,03/01/2020,Cisco Data Center Network Manager writeToFile Directory Traversal Remote Code Execution Vulnerability
+CVE-2019-15979,Cisco,03/01/2020,Cisco Data Center Network Manager importTS Command Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getDiscoveredDeviceCount groupId SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getDiscoveredDeviceCount hostname SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getDiscoveredDeviceCount switchIdList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager setVxlanProperties SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager createSite SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager createSite getIp SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager checkDiscoveryEthSwCandidates4List SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getN3KBufferStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getEndDeviceStatListWithVsan SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getNpvLinkStatJoinList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getFlowStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getTaskList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager modifyGroupName SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getVpcCount SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLanSwitchBandwidthStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSanSwitchBandwidthStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getAllVpcs SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLanEthernetStatListES SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSanIslStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getPortGroupStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLanIslStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getNpvLinkStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLanIslStatJoinList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLanGigEStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSanGigEStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSanIslStatJoinList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLanSwitchListWithoutUsedPorts SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLanStatEntities SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSanStatEntities SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getOidSanStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getOidLanStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getPortGroupMember SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getHostEnclList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSanZoneList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getVsanList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15985,Cisco,03/01/2020,Cisco Data Center Network Manager getEndPortConnectionsForStorageSystem SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15985,Cisco,03/01/2020,Cisco Data Center Network Manager getEndPortConnectionsForStorageEnclosure SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getVmHostData SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getDeployerTaskDetails SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getJobList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getVsanListForEnclosures SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getAllGroups SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getZoneListByZoneNameAndParentId SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSanIslListWithPM SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getEndDeviceList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSwitches SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSwitches SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getModulesBySwitch SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLanIslStatListES SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getModules SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getNpvLinks SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getBackupStatusCount SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSanIslStatListESBySQL SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getFlowStatListES SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSanGigEStatListES SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getCustomPGStatList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getEndDeviceStatListESBySQL SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getIslListWithPMForTopology SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getHostEnclList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLanSwitchList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLanIslList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getisls SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getInterfacesBySwitch SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getHostEnclList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getHostEnclList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getEndPorts SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getLicenses SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getAllTemplate SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getRPMTasks SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getJobExecutionDetails SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager DeviceModuleRest getDeviceModulesupport SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSyslogEventList SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager VirtualPortChannel getDomain SQL Injection Information Disclosure Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getHostEnclDataLength SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getVpcPeerHistory SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getVpcHistory SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getAllVpc SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager deleteVpcHistory SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getSMUTasks SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager ImageManagement SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager getTokenInfo SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15984,Cisco,03/01/2020,Cisco Data Center Network Manager persistUserInfo SQL Injection Remote Code Execution Vulnerability
+CVE-2019-15981,Cisco,03/01/2020,Cisco Data Center Network Manager readConfigFileFromDB Directory Traversal Information Disclosure Vulnerability
+CVE-2019-15981,Cisco,03/01/2020,Cisco Data Center Network Manager ReportWS deleteReportTemplate Directory Traversal Denial-of-Service Vulnerability
+CVE-2019-15977,Cisco,03/01/2020,Cisco Data Center Network Manager JBoss_4_2Encrypter Hardcoded Cryptographic Key Information Disclosure Vulnerability
+CVE-2019-15977,Cisco,03/01/2020,Cisco Data Center Network Manager serverinfo Hardcoded Password Information Disclosure Vulnerability
+CVE-2019-15980,Cisco,03/01/2020,Cisco Data Center Network Manager DbAdminRest installSwitchLicense Directory Traversal Remote Code Execution Vulnerability
+CVE-2019-15981,Cisco,03/01/2020,Cisco Data Center Network Manager readConfigFileFromDBAsXML Directory Traversal Information Disclosure Vulnerability
+CVE-2019-15981,Cisco,03/01/2020,Cisco Data Center Network Manager WebAnalysisWSService storeConfigToFS Directory Traversal Denial-of-Service Vulnerability
+CVE-2019-15976,Cisco,03/01/2020,Cisco Data Center Network Manager SecurityManager Hard-coded Cryptographic Key Authentication Bypass Vulnerability
+CVE-2019-15980,Cisco,03/01/2020,Cisco Data Center Network Manager reportTemplateUploadPolicy Directory Traversal Remote Code Execution Vulnerability
+CVE-2019-15980,Cisco,03/01/2020,Cisco Data Center Network Manager ConfigArchiveRest getRestoreLog Directory Traversal Information Disclosure Vulnerability
+CVE-2019-15980,Cisco,03/01/2020,Cisco Data Center Network Manager DbAdminRest runZoneMigrationForBrocade Directory Traversal Remote Code Execution Vulnerability
+CVE-2019-15980,Cisco,03/01/2020,Cisco Data Center Network Manager DbAdminRest saveLicenseFileToServer Directory Traversal Remote Code Execution Vulnerability
+CVE-2019-15975,Cisco,03/01/2020,Cisco Data Center Network Manager TrustedClientTokenValidator Hard-coded Cryptographic Key Authentication Bypass Vulnerability
+,Microsoft,02/01/2020,(0Day) Microsoft Outlook HTML Uninitialized Memory Information Disclosure Vulnerability
+,Microsoft,02/01/2020,

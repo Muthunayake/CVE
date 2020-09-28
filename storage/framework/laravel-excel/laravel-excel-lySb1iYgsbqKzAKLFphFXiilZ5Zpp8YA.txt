@@ -1,0 +1,2 @@
+ip_address,host_name_fdqn,vuln_name,severity,protocol,port,vulnerability,solution,cvssv3_score,cve_id,aaaaa
+192.168.20.10,,Symantec Endpoint Protection Client 12.1.x < 12.1.7454.7000 / 14.x < 14.2 Multiple Vulnerabilities (SYMSA1468),Medium,TCP,445,"The version of Symantec Endpoint Protection (SEP) Client installed on the remote host is 12.1.x or 14.x prior to 14.2 MP1. It is, therefore, affected by an unspecified DLL preloading vulnerability.",Upgrade to Symantec Endpoint Protection Client version 12.1.7454.7000 or 14.2 or later.,6.8,"CVE-2018-12238,CVE-2018-12239",
