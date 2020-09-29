@@ -6,7 +6,7 @@ $(document).ready(function() {
 
 function initTable1() {
     $("#pv-table").DataTable({
-        pageLength: 20,
+        pageLength: 10,
         autoWidth: false,
         destroy: true,
         scrollX: true,
