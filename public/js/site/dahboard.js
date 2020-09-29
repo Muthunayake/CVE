@@ -5,7 +5,7 @@ $(document).ready(function() {
 });
 
 function initTable1() {
-    pv_table = $("#pv-table").DataTable({
+    $("#pv-table").DataTable({
         pageLength: 20,
         autoWidth: false,
         destroy: true,
@@ -15,18 +15,21 @@ function initTable1() {
             [10, 15, 20]
         ],
         dom: "Bfrtip",
-        buttons: ["copy", "csv", "excel", "pdf", "print"]
+        buttons: ["copy", "csv", "excel", "pdf", "print"],
+        order: [[6, "desc"]]
     });
 }
 
 function initTable2() {
-    pv_table = $("#af-table").DataTable({
+    $("#af-table").DataTable({
         pageLength: 10,
         autoWidth: false,
         destroy: true,
+        scrollX: true,
         lengthMenu: [
             [10, 15, 20],
             [10, 15, 20]
-        ]
+        ],
+        order: [[0, "asc"]]
     });
 }

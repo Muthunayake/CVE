@@ -33,6 +33,7 @@
                       <th>Vulnerability</th>
                       <th>Solution</th>
                       <th>CVSSV3 Score</th>
+                      <th>CVE ID</th>
                       <th>VPS Vulnerability</th>
                   </tr>
               </thead>
@@ -53,6 +54,9 @@
                       </td>
                       <td>
                         {{$row['cvss_v3'] ?? 'Not Available'}}
+                      </td>
+                      <td>
+                        {{$row['cve_id'] ?? 'Not Available'}}
                       </td>
                       <td>
                         {{$row['vps'] ?? 'Not Available'}}
@@ -128,26 +132,28 @@
       <!-- /.card-header -->
       <div class="card-body">
         <div class="row">
-          <table id="af-table" class="table display table-borderless table-striped" style="width:100%">
-            <thead>
-                <tr>
-                    <th>Affteced Vendor</th>
-                    <th>Percentage</th>
-                </tr>
-            </thead>
-            <tbody>
-              @foreach ($affteced_vendors as $key=>$val)
+          <div class="col-md-12">
+            <table id="af-table" class="table display table-borderless table-striped" style="width:100% !important">
+              <thead>
                   <tr>
-                    <td>
-                      {{ $key }}
-                    </td>
-                    <td>
-                      {{ $val }}
-                    </td>
+                      <th style="width: 50%">Affteced Vendor</th>
+                      <th style="width: 50%">Percentage</th>
                   </tr>
-              @endforeach
-            </tbody>
-        </table>
+              </thead>
+              <tbody>
+                @foreach ($affteced_vendors as $key=>$val)
+                    <tr>
+                      <td>
+                        {{ $key }}
+                      </td>
+                      <td>
+                        {{ $val }}
+                      </td>
+                    </tr>
+                @endforeach
+              </tbody>
+          </table>
+          </div>
           {{-- <div class="col-md-8">
             <div class="chart-responsive">
               <canvas id="pieChart" height="150"></canvas>

@@ -19,6 +19,7 @@ class CreatePrioritizedVanalabilitiesTable extends Migration
             $table->text('host_name')->nullable();
             $table->text('vulnerability')->nullable();
             $table->text('solution')->nullable();
+            $table->text('cve_id')->nullable();
             $table->float('vps')->nullable();
             $table->float('cvss_v3')->nullable();
             $table->timestamps();

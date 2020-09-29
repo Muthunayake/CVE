@@ -12,6 +12,7 @@ class PrioritizedVanalability extends Model
         'vulnerability',
         'solution',
         'vps',
+        'cve_id',
         'cvss_v3'
     ];
 }

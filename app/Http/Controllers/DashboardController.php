@@ -50,16 +50,19 @@ class DashboardController extends Controller
         $high_edr = 0;
         $high_ant = 0;
         $high_otr = 0;
+        $high_count = 0;
 
         $me_ips = 0;
         $me_edr = 0;
         $me_ant = 0;
         $me_otr = 0;
+        $me_count = 0;
 
         $low_ips = 0;
         $low_edr = 0;
         $low_ant = 0;
         $low_otr = 0;
+        $low_count = 0;
 
         $data = [];
         $groupData = $scanData->groupBy('exposure');
@@ -78,6 +81,8 @@ class DashboardController extends Controller
                 if ($currentControl['other'] == "Yes")
                     $high_otr += 1;
             }
+
+            $high_count = count($groupData['High']);
         }
 
         #medium
@@ -94,6 +99,7 @@ class DashboardController extends Controller
                 if ($currentControl['other'] == "Yes")
                     $me_otr += 1;
             }
+            $me_count = count($groupData['Medium']);
         }
 
         #low
@@ -110,28 +116,29 @@ class DashboardController extends Controller
                 if ($currentControl['other'] == "Yes")
                     $low_otr += 1;
             }
+            $low_count = $low_count;
         }
 
         $data[] = [
             'criticality' => 'High',
-            'ips_signature' => ($high_ips / count($groupData['High']) * 100),
-            'edr_prevention' => ($high_edr / count($groupData['High']) * 100),
-            'anti_malware_prevention' => ($high_ant / count($groupData['High']) * 100),
-            'other' => ($high_otr / count($groupData['High']) * 100),
+            'ips_signature' => $high_count == 0 ? 0 : ($high_ips /  $high_count * 100),
+            'edr_prevention' => $high_count == 0 ? 0 : ($high_edr / $high_count * 100),
+            'anti_malware_prevention' => $high_count == 0 ? 0 : ($high_ant / $high_count * 100),
+            'other' => $high_count == 0 ? 0 : ($high_otr / $high_count * 100),
         ];
         $data[] = [
             'criticality' => 'Medium',
-            'ips_signature' => ($me_ips / count($groupData['Medium']) * 100),
-            'edr_prevention' => ($me_edr / count($groupData['Medium']) * 100),
-            'anti_malware_prevention' => ($me_ant / count($groupData['Medium']) * 100),
-            'other' => ($me_otr / count($groupData['Medium']) * 100),
+            'ips_signature' => $me_count == 0 ? 0 : ($me_ips / $me_count * 100),
+            'edr_prevention' => $me_count == 0 ? 0 : ($me_edr / $me_count * 100),
+            'anti_malware_prevention' => $me_count == 0 ? 0 : ($me_ant / $me_count * 100),
+            'other' => $me_count == 0 ? 0 : ($me_otr / $me_count * 100),
         ];
         $data[] = [
             'criticality' => 'Low',
-            'ips_signature' => ($low_ips / count($groupData['Low']) * 100),
-            'edr_prevention' => ($low_edr / count($groupData['Low']) * 100),
-            'anti_malware_prevention' => ($low_ant / count($groupData['Low']) * 100),
-            'other' => ($low_otr / count($groupData['Low']) * 100),
+            'ips_signature' => $low_count == 0 ? 0 : ($low_ips / $low_count * 100),
+            'edr_prevention' => $low_count == 0 ? 0 : ($low_edr / $low_count * 100),
+            'anti_malware_prevention' => $low_count == 0 ? 0 : ($low_ant / $low_count * 100),
+            'other' => $low_count == 0 ? 0 : ($low_otr / $low_count * 100),
         ];
 
         return $data;
@@ -227,6 +234,7 @@ class DashboardController extends Controller
                 $temp['solution'] = $scanData['solution'];
                 $temp['cvss_v3'] = $cve['cvss_v3'];
                 $temp['vps'] = $vps;
+                $temp['cve_id'] = $cveId;
                 $data[] = $temp;
                 // }
             }
