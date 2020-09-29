@@ -34,6 +34,7 @@ class DashboardController extends Controller
             'page' => 'dashboard',
             'pv' => $this->getPrioritizedVanalability(),
             'heapMap' => $this->getHeapMap(),
+            'affteced_vendors' => $this->afftecedVendors()
         ]);
     }
 
@@ -64,45 +65,51 @@ class DashboardController extends Controller
         $groupData = $scanData->groupBy('exposure');
 
         #high
-        foreach ($groupData['High'] as $key => $high) {
-            // $currentControl = CurrentControl::where('cve_id', 'like', '%' . $high['cve_id'] . '%')->first();
-            $currentControl = CurrentControl::where('cve_id', $high['cve_id'])->first();
-            if ($currentControl['ips_signature'] == "Yes")
-                $high_ips += 1;
-            if ($currentControl['edr_prevention'] == "Yes")
-                $high_edr += 1;
-            if ($currentControl['anti_malware_prevention'] == "Yes")
-                $high_ant += 1;
-            if ($currentControl['other'] == "Yes")
-                $high_otr += 1;
+        if (isset($groupData['High'])) {
+            foreach ($groupData['High'] as $key => $high) {
+                // $currentControl = CurrentControl::where('cve_id', 'like', '%' . $high['cve_id'] . '%')->first();
+                $currentControl = CurrentControl::where('cve_id', $high['cve_id'])->first();
+                if ($currentControl['ips_signature'] == "Yes")
+                    $high_ips += 1;
+                if ($currentControl['edr_prevention'] == "Yes")
+                    $high_edr += 1;
+                if ($currentControl['anti_malware_prevention'] == "Yes")
+                    $high_ant += 1;
+                if ($currentControl['other'] == "Yes")
+                    $high_otr += 1;
+            }
         }
 
         #medium
-        foreach ($groupData['Medium'] as $key => $high) {
-            // $currentControl = CurrentControl::where('cve_id', 'like', '%' . $high['cve_id'] . '%')->first();
-            $currentControl = CurrentControl::where('cve_id', $high['cve_id'])->first();
-            if ($currentControl['ips_signature'] == "Yes")
-                $me_ips += 1;
-            if ($currentControl['edr_prevention'] == "Yes")
-                $me_edr += 1;
-            if ($currentControl['anti_malware_prevention'] == "Yes")
-                $me_ant += 1;
-            if ($currentControl['other'] == "Yes")
-                $me_otr += 1;
+        if (isset($groupData['Medium'])) {
+            foreach ($groupData['Medium'] as $key => $medium) {
+                // $currentControl = CurrentControl::where('cve_id', 'like', '%' . $high['cve_id'] . '%')->first();
+                $currentControl = CurrentControl::where('cve_id', $medium['cve_id'])->first();
+                if ($currentControl['ips_signature'] == "Yes")
+                    $me_ips += 1;
+                if ($currentControl['edr_prevention'] == "Yes")
+                    $me_edr += 1;
+                if ($currentControl['anti_malware_prevention'] == "Yes")
+                    $me_ant += 1;
+                if ($currentControl['other'] == "Yes")
+                    $me_otr += 1;
+            }
         }
 
         #low
-        foreach ($groupData['Low'] as $key => $high) {
-            // $currentControl = CurrentControl::where('cve_id', 'like', '%' . $high['cve_id'] . '%')->first();
-            $currentControl = CurrentControl::where('cve_id', $high['cve_id'])->first();
-            if ($currentControl['ips_signature'] == "Yes")
-                $low_ips += 1;
-            if ($currentControl['edr_prevention'] == "Yes")
-                $low_edr += 1;
-            if ($currentControl['anti_malware_prevention'] == "Yes")
-                $low_ant += 1;
-            if ($currentControl['other'] == "Yes")
-                $low_otr += 1;
+        if (isset($groupData['Low'])) {
+            foreach ($groupData['Low'] as $key => $low) {
+                // $currentControl = CurrentControl::where('cve_id', 'like', '%' . $high['cve_id'] . '%')->first();
+                $currentControl = CurrentControl::where('cve_id', $low['cve_id'])->first();
+                if ($currentControl['ips_signature'] == "Yes")
+                    $low_ips += 1;
+                if ($currentControl['edr_prevention'] == "Yes")
+                    $low_edr += 1;
+                if ($currentControl['anti_malware_prevention'] == "Yes")
+                    $low_ant += 1;
+                if ($currentControl['other'] == "Yes")
+                    $low_otr += 1;
+            }
         }
 
         $data[] = [
@@ -227,6 +234,18 @@ class DashboardController extends Controller
             PrioritizedVanalability::insert($data);
             dump(count($data));
             dump('rows inserted');
+        }
+        return $data;
+    }
+
+    public function afftecedVendors()
+    {
+        $data = [];
+        $sdCount = ScanData::count();
+        $vendors = CVE::whereNotNull('affected_vendors')->get()->groupBy('affected_vendors');
+
+        foreach ($vendors as $key => $vendor) {
+            $data[$key] = round((count($vendor) / $sdCount) * 100, 3);
         }
         return $data;
     }
